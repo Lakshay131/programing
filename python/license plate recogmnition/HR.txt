@@ -1,0 +1,100 @@
+Code	Office location	Jurisdiction area	Superordinate division	Annotations
+HR-01	Ambala	Ambala	Ambala district	
+HR-02	Jagadhari	Yamunanagar	Yamunanagar district	
+HR-03	Panchkula	Panchkula	Panchkula district	
+HR-04	Naraingarh	Naraingarh	Ambala district	
+HR-05	Karnal	Karnal	Karnal district	
+HR-06	Panipat	Panipat	Panipat district	
+HR-07	Thanesar	Thanesar	Kurukshetra district	
+HR-08	Kaithal	Kaithal	Kaithal district	
+HR-09	Guhla	Guhla	Kaithal district	
+HR-10	Sonipat	Sonipat	Sonipat district	
+HR-11	Gohana	Gohana	Sonipat district	
+HR-12	Rohtak	Rohtak	Rohtak district	
+HR-13	Bahadurgarh	Bahadurgarh	Jhajjar district	
+HR-14	Jhajjar	Jhajjar	Jhajjar district	
+HR-15	Meham	Meham	Rohtak district	
+HR-16	Bhiwani	Bhiwani	Bhiwani district	
+HR-17	Siwani	Siwani	Bhiwani district	
+HR-18	Loharu	Loharu	Bhiwani district	
+HR-19	Charkhi Dadri	Charkhi Dadri	Charkhi Dadri district	
+HR-20	Hisar	Hisar	Hisar district	
+HR-21	Hansi	Hansi	Hisar district	
+HR-22	Fatehabad	Fatehabad	Fatehabad district	
+HR-23	Tohana, Jakhal Mandi	Tohana	Fatehabad district	
+HR-24	Sirsa	Sirsa	Sirsa district	
+HR-25	Mandi Dabwali	Mandi Dabwali	Sirsa district	
+HR-26	Gurugram (Gurugram North)	Old Gurgaon city (Northern Parts)	Gurugram district	
+HR-27	Nuh	Nuh	Mewat district	
+HR-28	Ferozepur Jhirka	Ferozepur Jhirka	Mewat district	
+HR-29	Ballabgarh (Faridabad South)	Ballabgarh	Faridabad district	
+HR-30	Palwal	Palwal	Palwal district	
+HR-31	Jind	Jind	Jind district	
+HR-32	Narwana	Narwana	Jind district	
+HR-33	Safidon	Safidon	Jind district	
+HR-34	Mahendragarh	Mahendragarh	Mahendragarh district	
+HR-35	Narnaul	Narnaul	Mahendragarh district	
+HR-36	Rewari	Rewari	Rewari district	
+HR-37	Ambala	Ambala	Ambala district	commercial vehicles only
+HR-38	Faridabad	Faridabad district	Faridabad district	commercial vehicles only
+HR-39	Hisar	Hisar district	Hisar district	commercial vehicles only
+HR-40	Assandh	Assandh	Karnal district	
+HR-41	Pehowa	Pehowa	Kurukshetra district	
+HR-42	Ganaur	Ganaur	Sonipat district	
+HR-43	Kosli	Kosli	Rewari district	
+HR-44	Ellenabad	Ellenabad	Sirsa district	
+HR-45	Karnal	Karnal district	Karnal district	commercial vehicles only
+HR-46	Rohtak	Rohtak district	Rohtak district	commercial vehicles only
+HR-47	Rewari	Rewari district	Rewari district	commercial vehicles only
+HR-48	Tosham	Tosham, Bawani Khera	Bhiwani district	
+HR-49	Kalka	Kalka	Panchkula district	
+HR-50	Hodal	Hodal	Palwal district	
+HR-51	Faridabad (Faridabad North)	Faridabad	Faridabad district	
+HR-52	Hathin	Hathin	Palwal district	
+HR-53	Adampur	Adampur	Hisar district	
+HR-54	Barara	Barara	Ambala district	
+HR-55	Gurugram	Gurugram district	Gurugram district	commercial vehicles only
+HR-56	Jind	Jind, Julana	Jind district	commercial vehicles only
+HR-57	Sirsa	Sirsa district	Sirsa district	commercial vehicles only
+HR-58	Yamunanagar	Yamunanagar district	Yamunanagar district	commercial vehicles only
+HR-59	Ratia	Ratia	Fatehabad district	
+HR-60	Samalkha	Samalkha	Panipat district	
+HR-61	Bhiwani	Bhiwani district	Bhiwani district	commercial vehicles only
+HR-62	Fatehabad	Fatehabad district	Fatehabad district	commercial vehicles only
+HR-63	Jhajjar	Jhajjar, Bahadurgarh	Jhajjar district	commercial vehicles only
+HR-64	Kaithal	Kaithal district	Kaithal district	commercial vehicles only
+HR-65	Kurukshetra	Kurukshetra district	Kurukshetra district	commercial vehicles only
+HR-66	Narnaul	Mahendragarh district	Mahendragarh district	commercial vehicles only
+HR-67	Panipat	Panipat district	Panipat district	commercial vehicles only
+HR-68	Panchkula	Panchkula district	Panchkula district	commercial vehicles only
+HR-69	Sonipat	Sonipat district	Sonipat district	commercial vehicles only
+HR-70	Chandigarh	Chandigarh		This series belongs to the Transport Commissioner in Chandigarh. It is meant for special out of turn VIP or special demand numbers. Also re-registered vehicles whose original number was from 1 to 100 (now retained by the original buyer for his new vehicle) or government auctioned vehicles and others are getting numbers from this series.
+HR-71	Bilaspur	Bilaspur	Yamunanagar district	
+HR-72	Sohna	Sohna	Gurugram district	
+HR-73	Palwal	Palwal district	Palwal district	commercial vehicles only
+HR-74	Nuh	Mewat district	Mewat district	commercial vehicles only
+HR-75	Indri	Indri	Karnal district	
+HR-76	Pataudi	Pataudi, Farrukhnagar	Gurugram district	
+HR-77	Beri	Beri	Jhajjar district	
+HR-78	Shahabad Markanda	Shahabad Markanda	Kurukshetra district	
+HR-79	Kharkhoda	Kharkhoda	Sonipat district	
+HR-80	Barwala	Barwala	Hisar district	
+HR-81	Bawal	Bawal	Rewari district	
+HR-82	Kanina	Kanina	Mahendragarh district	
+HR-83	Kalayat	Kalayat	Kaithal district	
+HR-84	Charkhi Dadri	Charkhi Dadri district	Charkhi Dadri district	commercial vehicles only
+HR-85	Ambala Cantt	Ambala Cantt	Ambala district	
+HR-86	Narnaund	Narnaund	Hisar district	
+HR-87	Badkhal (Faridabad West)	Badkhal Tehsil	Faridabad district	
+HR-88	Badhra	Badhra	Charkhi Dadri district	
+HR-89	Badli	Badli	Jhajjar district	
+HR-90	Uchana	Uchana	Jind district	
+HR-91	Gharaunda	Gharaunda	Karnal district	
+HR-92	Radaur	Radaur	Yamunanagar district	
+HR-93	Punhana	Punhana	Mewat district	
+HR-94	Kalanwali	Kalanwali	Sirsa district	
+HR-95	Sampla	Sampla	Rohtak district	
+HR-96	Taoru	Taoru	Mewat district	
+HR-97	Ladwa	Ladwa	Kurukshetra	
+HR-98	Badshahpur (Gurugram South)	New Gurgaon City (southern parts) including Badshahpur & Wazirabad	Gurugram district	
+HR-99		entire Haryana		Temporary numbers for new vehicles

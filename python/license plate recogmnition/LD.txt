@@ -1,0 +1,10 @@
+Code	Office location	Jurisdiction area	Annotations
+LD-01	Kavaratti	Kavaratti	
+LD-02	Agatti	Agatti	
+LD-03	Amini	Amini	
+LD-04	Androth	Androth	
+LD-05	Kadmat	Kadmat	
+LD-06	Kiltan	Kiltan	
+LD-07	Kalpeni	Kalpeni	
+LD-08	Kalpeni	Kalpeni	
+LD-09	Minicoy	Minicoy	

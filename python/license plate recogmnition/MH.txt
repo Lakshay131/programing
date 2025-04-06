@@ -1,0 +1,59 @@
+Code	Location	Office location	Jurisdiction area	Annotations
+MH-01	Mumbai South	Location: Tardeo, Mumbai City District	Jurisdiction: Nariman Point, Colaba to Mahim, Sion, Wadala (parts) in Mumbai City District and Elephanta (Raigad Distt.)	BEST buses (MCGM Owned), MCGM, Government vehicles serving Mumbai jurisdiction are also registered here.
+MH-02	Mumbai West	Location: Versova Road, Andheri (W), Mumbai Suburban District	Jurisdiction: Bandra to Jogeshwari in Mumbai Suburban District (also included Goregaon to Dahisar until 2015)	
+MH-03	Mumbai East	Location: Wadala Truck Terminal, Mumbai City District	Jurisdiction: Kurla to Mulund, Mankhurd in Mumbai Suburban District	
+MH-04	Thane	Location: near Central Jail, Thane	Jurisdiction: Talukas of Thane (Thane, Mira-Bhayandar), Bhiwandi and Shahapur (Also covered Palghar district until 2014)	
+MH-05	Kalyan, Thane District	Location: Sahyadri Nagar, Kalyan West	Jurisdiction: Talukas of Kalyan (Kalyan-Dombivli), Murbad, Ulhasnagar (Town and Taluka), Ambernath (Town and Taluka, including Badlapur Town)	
+MH-06	Raigad	Location: Utkarsh Nagar, Pen (Town and Taluka)	Jurisdiction: Taluks of Pen, Alibag, Roha, Murud, Shrivardhan, Mangaon, Mhasala, Poladpur, Tala, Mahad, Sudhagad	
+MH-07	Sindhudurg	Location: Oros Town, Kudal Taluka	Jurisdiction: Entire Sindhudurg District	
+MH-08	Ratnagiri	Location: Kuwarbav, Ratnigiri	Jurisdiction: Entire Ratnagiri District	
+MH-09	Kolhapur	Location: Tarabai Park, Kolhapur	Jurisdiction: Kolhapur City and Talukas of Karvir, Panhala, Shahuwadi, Bavda, Radhanagari, Bhudargad, Ajra, Chandgad, Kagal and Gadhinglaj	
+MH-10	Sangli	Location: Madhav Nagar Road, Sangli City	Jurisdiction: Entire Sangli District	
+MH-11	Satara	Location: Camp, Satara	Jurisdiction: Talukas of Satara, Jaoli, Mahabaleshwar, Wai, Khandala, Koregaon and Khatav	
+MH-12	Pune	Location: Sangam Bridge, Raja Bahadur Mills Road, Pune	Jurisdiction: Pune City and Talukas of Haveli, Bhor, Velha, Indapur, Purandar, Shirur	
+MH-13	Solapur	Location: Vijapur Road, Solapur	Jurisdiction: Talukas of Solapur North, Solapur South, Mangalvedha, Barshi, Mohol, Pandharpur, Akkalkot	
+MH-14	Pimpri-Chinchwad, Pune district	Location: Sector 6, Pradhikaran, Nigdi, Pimpri-Chinchwad	Jurisdiction: Pimpri-Chinchwad Municipal Corporation and Hinjawadi (parts of Mulshi Taluka), Talukas of Junnar, Khed, Maval, Ambegaon	
+MH-15	Nashik	Location: Panchavati, Nashik	Jurisdiction: Talukas of Nashik, Dindori, Trimbakeshwar, Surgana, Yevla, Chandvad, Niphad, Sinnar, Peth, Igatpuri	
+MH-16	Ahmadnagar	Location: Wambori Road, Ahmadnagar	Jurisdiction: Talukas of Nagar, Jamkhed, Shrigonda, Pathardi, Parnet, Karjat, Shevgaon	
+MH-17	Shrirampur, Ahmadnagar District	Location: Nevasa Road, Shrirampur	Jurisdiction: Talukas of Shrirampur, Nevasa, Rahuri, Rahta, Kopargaon, Sangamner, Akole	
+MH-18	Dhule	Location: Mumbai Agra Road, Dhule	Jurisdiction: Entire Dhule District	
+MH-19	Jalgaon	Location: Adarsh Nagar, Jalgaon	Jurisdiction: Talukas of Jalgaon, Bhusawal, Jamner, Yaval, Bodwad, Muktainagar and Raver	
+MH-20	Aurangabad	Location: Railway Station Road, Aurangabad	Jurisdiction: Entire Aurangabad District	
+MH-21	Jalna	Location: Nagewadi, Jalna	Jurisdiction: Entire Jalna District	
+MH-22	Parbhani	Location: Manvat Road, Parbhani	Jurisdiction: Entire Parbhani District	
+MH-23	Beed	Location: Jalna Road, Beed	Jurisdiction: Talukas of Beed, Ashti, Gevrai, Patoda, Shirur Kasar	
+MH-24	Latur	Location: Babhalgaon Road, Latur	Jurisdiction: Talukas of Latur, Ausa, Nilanga, Renapur and Chakur	
+MH-25	Osmanabad	Location: MIDC, Osmanabad	Jurisdiction: Entire Osmanabad District	
+MH-26	Nanded	Location: CIDCO, Nanded	Jurisdiction: Entire Nanded District	
+MH-27	Amravati	Location: Collectorate Camp, Amaravati	Jurisdiction: Entire Amaravati District	
+MH-28	Buldhana	Location: Malkapur Road, Buldhana	Jurisdiction: Tehsil including Buldhana, Motala, Chikhali, Mehkar, Lonar, Sindkhed Raja and Deulgaon Raja	
+MH-29	Yavatmal	Location: Nagpur Road, Yavatmal	Jurisdiction: Entire Yavatmal District	
+MH-30	Akola	Location: Murtijapur Road, Akola	Jurisdiction: Entire Akola District	
+MH-31	Nagpur West	Location: opposite Giripeth Post Office, Nagpur	Jurisdiction: Western Suburbs of Nagpur City	
+MH-32	Wardha	Location: Sevagram Road, Wardha	Jurisdiction: Entire Wardha District	
+MH-33	Gadchiroli	Location: near Collector Office, Gadchiroli	Jurisdiction: Entire Gadchiroli District	
+MH-34	Chandrapur	Location: Jal Nagar Ward, Chandrapur	Jurisdiction: Entire Chandrapur District	
+MH-35	Gondia	Location: Fulchurtola, Gondia	Jurisdiction: Entire Gondia District	
+MH-36	Bhandara	Location: National Highway 6, Bhandara	Jurisdiction: Entire Bhandara District	
+MH-37	Washim	Location: Lakhala, Washim	Jurisdiction: Entire Washim District	
+MH-38	Hingoli	Location: Limbala Matka, Hingoli	Jurisdiction: Entire Hingoli District	
+MH-39	Nandurbar	Location: Sakri Road, Nandurbar	Jurisdiction: Entire Nandurbar District	
+MH-40	Nagpur Rural	Location: Indora, Nagpur	Jurisdiction: Entire Nagpur District except Nagpur Urban Taluka	
+MH-41	Malegaon, Nashik District	Location: Camp, Malegaon	Jurisdiction: Talukas of Malegaon, Satana, Kalwan, Deola, Nandgaon	
+MH-42	Baramati, Pune District	Location: Bhigwan Road, Baramati	Jurisdiction: Talukas of Baramati, Indapur, Daund	
+MH-43	Navi Mumbai, Thane District	Location: Vashi Sector 19B, Navi Mumbai	Jurisdiction: Airoli to CBD Belapur and surrounding areas in Thane Taluka	
+MH-44	Ambajogai, Beed District	Location: Morewadi, Ambajogai	Jurisdiction: Talukas of Ambajogai, Kaij, Vadvani, Majalgaon, Parli, Dharur	
+MH-45	Akluj, Solapur District	Location: Anand Nagar, Akluj, Malshiras Taluka	Jurisdiction: Talukas of Malshiras, Madha, Sangola, Karmala	
+MH-46	Panvel, Raigad District	Location: Kalamboli, Panvel	Jurisdiction: Kharghar to Panvel suburbs in Navi Mumbai, Talukas of Panvel, Uran, Khalapur, Karjat	
+MH-47	Mumbai North	Location: Dahisar West, Mumbai Suburban District	Jurisdiction: Goregaon to Dahisar in Mumbai Suburban District	
+MH-48	Palghar	Location: Bhatpara, Virar East	Jurisdiction: Vasai-Virar City Limits and whole of Palghar District	
+MH-49	Nagpur East	Location: Chikhali Layout, Nagpur	Jurisdiction: Eastern Suburbs of Nagpur City	
+MH-50	Karad, Satara District	Location: Supane, Karad Town	Jurisdiction: Karad and Patan Talukas	
+MH-51	Ichalkaranji, Kolhapur District	Location: Vikash Nagar, Ichalkaranji	Jurisdiction: Ichalkaranji Town and Talukas of Hatkanangle and Shirol	
+MH-52	Chalisgaon, Jalgaon District	Location: Shastri Nagar, Bhadgaon Road, Chalisgaon	Jurisdiction: Chalisgaon Taluka	
+MH-53	Phaltan, Satara District	Location: Sanmati Nagar, Shinganpur Road, Shivaji Nagar, Phaltan	Jurisdiction: Talukas of Phaltan and Man	
+MH-54	Bhadgaon, Jalgaon District	Location: Mauje Tongaon, Bhadgaon - Pachora Marg, Opp. Ashirwad Jining, Bhadgaon, Jalgaon	Jurisdiction: Talukas of Bhadgaon, Pachora, Parola, Amalner, Chopada, Erandol, Dharangaon	
+MH-55	Udgir, Latur District	Location: Venkatesh Nagar, Ramchandra Nagar, Udgir	Jurisdiction: Talukas of Udgir, Deoni, Jalkot, Shirur Anantpal and Ahmadpur	
+MH-56	Khamgaon, Buldhana District	Location: Near JV Mehta New Era High School, Khamgaon	Jurisdiction: Talukas of Khamgaon, Nandura, Shegaon, Malkapur, Jalgaon Jamod and Sangrampur	Yet to appear on Vahan Website	
+MH-57	Vaijapur, Aurangabad District	Location:	Jurisdiction:	Yet to appear on Vahan Website
+MH-58	Mira-Bhayander, Thane District	Location:	Jurisdiction:

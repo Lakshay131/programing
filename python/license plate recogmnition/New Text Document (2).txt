@@ -1,0 +1,1626 @@
+Code	Jurisdiction	Annotations
+AP 02	Ananthapuramu District	
+AP 03	Chittoor District	
+AP 04	YSR Kadapa District	
+AP 05	East Godavari District	RTO was located in Kakinada, former district headquarters of undivided East Godavari District
+AP 07	Guntur District	
+AP 16	Krishna District	RTO was located in Vijayawada, former district headquarters of undivided Krishna District
+AP 18 P	Andhra Pradesh Police	
+AP 21	Kurnool District	
+AP 26	Nellore District	
+AP 27	Prakasam District	
+AP 30	Srikakulam District	
+AP 31	Vishakhapatnam District	AP 32, AP 33, and AP 34 were also reserved for Vishakhapatnam, with only few vehicles getting these registrations.
+AP 35	Vizianagaram District	
+AP 37	West Godavari District	RTO was located in Eluru, former district headquarters of undivided West Godavari District
+AR—Arunachal Pradesh
+Code	Office location	Jurisdiction area	Annotations
+AR-01
+AR-02	Itanagar	Papum Pare district	
+AR-03	Tawang	Tawang district	
+AR-04	Bomdila	West Kameng district	
+AR-05	Seppa	East Kameng district	
+AR-06	Ziro	Lower Subansiri district	
+AR-07	Daporijo	Upper Subansiri district	
+AR-08	Along	West Siang district	
+AR-09	Pasighat	East Siang district	
+AR-10	Anini	Dibang Valley district	
+AR-11	Tezu	Lohit district	
+AR-12	Changlang	Changlang district	
+AR-13	Khonsa	Tirap district	
+AR-14	Yingkiong	Upper Siang district	
+AR-15	Koloriang	Kurung Kumey district	
+AR-16	Roing	Dibang Valley district	
+AR-17	Hawai	Anjaw district	
+AR-19	Palin	Kra Daadi district	
+AR-20	Namsai	Namsai district	On November 17, 2014, Namsai district was carved out from the erstwhile Lohit district.
+AR-22	Siji	Lower Siang district	On November 24, 2018, Lower Siang district was carved out from the erstwhile West Siang district.
+AS—Assam
+Code	Office location	Jurisdiction area	Annotations
+AS-01	Guwahati	Kamrup district	
+AS-02	Nagaon	Nagaon district	
+AS-03	Jorhat	Jorhat district	
+AS-04	Sivasagar	Sivasagar district	
+AS-05	Golaghat	Golaghat district	
+AS-06	Dibrugarh	Dibrugarh district	
+AS-07	Lakhimpur	Lakhimpur district	
+AS-08	Haflong	Dima Hasao district	
+AS-09	Karbi Anglong	Karbi Anglong district	
+AS-10	Karimganj	Karimganj district	
+AS-11	Silchar	Cachar district	
+AS-12	Tezpur	Sonitpur district	
+AS-13	Darrang	Darrang district	
+AS-14	Nalbari	Nalbari district	
+AS-15	Barpeta	Barpeta district	
+AS-16	Kokrajhar	Kokrajhar district	
+AS-17	Dhubri	Dhubri district	
+AS-18	Goalpara	Goalpara district	
+AS-19	Bongaigaon	Bongaigaon district	
+AS-20		entire Assam State	vehicles of Assam State Transport Corporation
+AS-21	Morigaon	Morigaon District	
+AS-22	Dhemaji	Dhemaji district	
+AS-23	Tinsukia	Tinsukia district	
+AS-24	Hailakandi	Hailakandi district	
+AS-25	Kamrup	Kamrup district	
+AS-26	Kajalgaon	Chirang district	
+AS-27	Udalguri	Udalguri district	
+AS-29	Majuli	Majuli district	
+AS-30	Assam Police	Assam Police	
+AS-31	Hojai	Hojai district	
+AS-32	Biswanath Chariali	Biswanath district	
+AS-33	Charaideo	Charaideo district	
+AS-34	Hatsingimari	South Salmara Mankachar	
+BR—Bihar
+Code	Office location	Jurisdiction area	Annotations
+BR-01	Patna	Patna district	
+BR-02	Gaya	Gaya district	
+BR-03	Arrah	Bhojpur district	
+BR-04	Chhapra	Saran district	
+BR-05	Motihari	East Champaran	
+BR-06	Muzaffarpur	Muzaffarpur	
+BR-07	Darbhanga	Darbhanga district	
+BR-08	Munger	Munger district	
+BR-09	Begusarai	Begusarai district	
+BR-10	Bhagalpur	Bhagalpur district	
+BR-11	Purnia	Purnia district	
+BR-19	Saharsa	Saharsa district	
+BR-21	Bihar Sharif	Nalanda district	
+BR-22	Bettiah	West Champaran district	
+BR-24	Dehri	Rohtas district	
+BR-25	Jehanabad	Jehanabad district	
+BR-26	Aurangabad	Aurangabad district	
+BR-27	Nawada	Nawada district	
+BR-28	Gopalganj	Gopalganj district	
+BR-29	Siwan	Siwan district	
+BR-30	Sitamarhi	Sitamarhi district	
+BR-31	Hajipur	Vaishali district	
+BR-32	Madhubani	Madhubani district	
+BR-33	Samastipur	Samastipur district	
+BR-34	Khagaria	Khagaria district	
+BR-37	Kishanganj	Kishanganj district	
+BR-38	Araria	Araria district	
+BR-39	Katihar	Katihar district	
+BR-43	Madhepura	Madhepura district	
+BR-44	Buxar	Buxar district	
+BR-45	Bhabua	Kaimur district	
+BR-46	Jamui	Jamui district	
+BR-50	Supaul	Supaul district	
+BR-51	Banka	Banka district	
+BR-52	Sheikhpura	Sheikhpura district	
+BR-53	Lakhisarai	Lakhisarai district	
+BR-55	Sheohar	Sheohar district	
+BR-56	Arwal	Arwal district	
+CG—Chhattisgarh
+Code	Office location	Jurisdiction area	Annotations
+CG-01		entire Chhattisgarh	Governor of Chhattisgarh vehicles
+CG-02		entire Chhattisgarh	Chhattisgarh Government vehicles
+CG-03		entire Chhattisgarh	Chhattisgarh Police vehicles
+CG-04	Raipur	Raipur district	
+CG-05	Dhamtari	Dhamtari district	
+CG-06	Mahasamund	Mahasamund district	
+CG-07	Durg	Durg district	
+CG-08	Rajnandgaon	Rajnandgaon district	
+CG-09	Kawardha	Kabirdham district	
+CG-10	Bilaspur	Bilaspur district	
+CG-11	Janjgir	Janjgir–Champa district	
+CG-12	Korba	Korba district	
+CG-13	Raigarh	Raigarh district	
+CG-14	Jashpur Nagar	Jashpur district	
+CG-15	Ambikapur	Surguja district	
+CG-16	Baikunthpur	Koriya district	
+CG-17	Jagdalpur	Bastar district	
+CG-18	Dantewada	Dantewada district	
+CG-19	Kanker	Kanker district	
+CG-20	Bijapur	Bijapur district, Chhattisgarh	
+CG-21	Narayanpur	Narayanpur district	
+CG-22	Baloda Bazar	Baloda Bazar district	
+CG-23	Gariaband	Gariaband district	
+CG-24	Balod	Balod district	
+CG-25	Bemetara	Bemetara district	
+CG-26	Sukma	Sukma district	
+CG-27	Kondagaon	Kondagaon district	
+CG-28	Mungeli	Mungeli district	
+CG-29	Surajpur	Surajpur district	
+CG-30	Balrampur	Balrampur district	
+CH—Chandigarh
+Code	Office location	Jurisdiction area	Annotations
+CH-01
+CH-02
+CH-03
+CH-04	Chandigarh	Chandigarh district	
+DD—Dadra and Nagar Haveli and Daman and Diu
+Code	Office location	Jurisdiction area	Annotations
+DD-01	Silvassa	Dadra and Nagar Haveli	Previously DN-09, before the merger of UT of Daman & Diu and UT of Dadra & Nagar Haveli
+DD-02	Diu		
+DD-03	Daman		
+DL—Delhi
+Code	Office location	Jurisdiction area	Annotations
+DL-1	Civil Lines	North District:
+Civil Lines, Pratap Bagh, Kotwali, Bela Road, Andha Mugal, Mori Gate, Majnu Ka Tila, Gulabi Bagh, Red Fort, Sant Nagar, Sarai Rohilla, Yamuna Bazar, Roop Nagar, Inder Lok, Lahori Gate, Maurice Nagar, Sadar Bazar, Church Mission, Shakti Nagar, Ahata Kedara, Town Hall, Subzi Mandi, Bara Hindu Rao, Nai Sarak, Tis Hazari, Kashmere Gate, Chandni Chowk
+
+DL-2	Indraprastha Depot	New Delhi District:
+Tilak Marg, R.M.L.Hospital, Chanakya Puri, Parliament St., Sucheta Kriplani Hospital, Tughlaq Road, Boat Club, Mandi House, North Avenue Panchkuian Road, Kali Bari Marg, South Avenue, Gole Market, Rabinder Nagar, Malcha Marg, Connaught Place, Kaka Nagar
+
+DL-3	Sheikh Sarai	South District:
+Hauz Khas, Amar Colony, C.R Park, Malviya Nagar, Garhi, Ambedkar Nagar, Saket, Okhla, Madangir, Pushp Vihar, Sunlight Colony, Sainik Farm, Mehrauli, New Friends Colony, Kalkaji, Defence Colony, Nehru Place, Gulmohar Park, Sukhdev Vihar, Badarpur, AIIMS, Bharat Nagar, Sarita Vihar, Lodhi Colony, Hz.Nizammudin, Sangam Vihar, Pragati Vihar, Jangpura, East Kidwai Nagar, Khan Pur, Sarai Kale Khan, Lajpat Nagar, Greater Kailash, Panchsheel
+
+DL-4	Janakpuri	West District I:
+Janakpuri, Vikaspuri, Keshopur, TilakNagar, Uttam Nagar, Mohan Garden, Nawada, Kakrola, Paschim Vihar, Meera Bagh, New Multan Nagar, Nangloi, Tikri Border, Nilothi, Nangloi Jat, Mundka, Baprola, Hari Nagar, Ashok Nagar, Prem Nagar, Subhash Nagar
+
+DL-5	Loni Road	North East District:
+Seelampur, Gamri, Nand Nagari, |
+
+DL-6	Sarai Kale Khan, Delhi	Central District:
+Daryaganj, Lalkuan, Prasha Nagar, Chandni Mahal, I.P. Estate, Rajender Nagar, Turkmangate, LNJP Hospital, Pusa Road, Jama Masjid, Pahar Ganj, Sita Ram Bazar, Kamla Market, DBG Road, Sangtrashan, Shahganj, Shidipura, Nabi Karim, Hauz Qazi, Govt. Qr. Devnagar, Ballimaran, Karol Bagh
+
+DL-7	Mayur Vihar	East District I:
+KalyanPuri, Laxmi Nagar, PreetVihar, New Ashok Nagar, Patparganj, Shakarpur, Trilokpuri, Mayur Vihar-I&II, Karkardooma
+
+DL-8	Wazirpur	North West District I:
+Model Town, Jahangirpuri, Sangam Park, Adarsh Nagar, Vijay Nagar, Keshav Puram, Ashok Vihar, Shalimar Bagh, Wazirpur, Saraswati Vihar, Kingsway Camp, Pitampura, Mukherjee Nagar, Rani Bagh, Azadpur, Rampura, Tri Nagar, Gujrawalan
+
+DL-9	Dwarka, Delhi	South West District I:
+Inderpuri, Naraina, Mayapuri, Najafgarh, Kapashera, Zafarpur Kalan, Dwaraka, Vasant Vihar, R.K.Puram, Sarojini Nagar, Vasant Kunj, Delhi Cantt., Dabri
+
+DL-10	Raja Garden	West District II:
+Anand Parbat, Moti Nagar, Patel Nagar, Punjabi Bagh, Kirti Nagar Rajouri Garden
+
+also DL-4CC to DL-4CM, DL4-CNA and onwards, DL-4SL, DL-4SN, DL-4SP, DL-4SR, DL-4SNA
+DL-11	Rohini	North West District II:
+Sultanpuri, Mangolpuri, Samaypur Badli, Prasant Vihar, Auchandi Border, Bawana, Alipur, Rohini, Kanjhavala, Narela, Kirari, Aman Vihar, Mubarakpur, Qutab Garh, Jonti, Mungeshpur, Mukandpur, Khera Kalan
+
+also DL-8CE to DL-8CX, DL-8SAA to DL-8SAY
+DL-12	Vasant Vihar	South West District II:
+Delhi Cantt., Vasant Vihar, Vasant Kunj, Munirka, Sarojini Nagar, Nauroji Nagar, IIT, Green Park, Ghitorni, Mahipal Pur
+
+DL-13	Surajmal Vihar	East District II:
+Gazipur, GandhiNagar, Krishna Nagar, Anand Vihar, Old Seelampur, Mandawali, New Shahdara, Geeta Colony, VivekVihar, Jheel
+
+also DL-7C (up to 8705), DL-7CH (0632 onwards), DL-7CG, DL-7CF (3543 onwards), DL-7S to DL-7SQ, DL-7SY (up to 7773), DL-7SAF (up to 5122), DL-7SAG, DL-7SAY (up to 1494)
+Specifics in the Delhi series
+Example or scheme	Meaning
+DL −1 A	The letter A is reserved for ambulances.
+DL-1B	The letter B is reserved for DMRC feeder buses.
+DL −*C; CA - CZ; CAA...	The letter C is reserved for fuel powered/electric cars.
+DL −1 D	The letter D is reserved for two/four wheeled private vehicles driven by handicapped drivers.
+DL-*ER,ERA and so on	The letter series ER is reserved for electric rickshaws.
+DL-2F	The letter F is reserved for vanity (VIP) series numbers for passenger vehicles.
+DL-1G	The letter G is reserved for heavy trucks.
+DL-1K	The letter K is reserved for school vans.
+DL-1L	The letter L is reserved for light trucks.
+DL-1M	The letter M is reserved for midsize trucks.
+DL-1N	The letter N is reserved for self-drive vehicles (comes under commercial vehicle category).
+DL-1P	The letter P is reserved for buses, including DTC, DIMTS, tourist and even heavy school buses.
+DL-1Q	The letter Q is reserved for phatphat seva or rural service share taxis.
+DL-1R,	The letter R is reserved for auto rickshaws.
+DL-1RT, DL-1RTA and so on	The letter series RT is reserved for radio/app taxis.
+DL −*S; SA - SZ; SAA...	The letter S is reserved for fuel powered/electric scooters and motorcycles.
+DL-1T	The letter T is reserved for taxis.
+DL-1V	The letter V is reserved for light buses.
+DL-1W, DL-2W	The letter W is reserved for rural service share taxis.
+DL-1Y	The letter Y is reserved for commercial private taxis.
+DL-1Z	The letter Z is reserved for commercial private taxis.
+DL-*CNA, CNB and so on, DL-*SNA, SNB and so on	These letter series are used for vehicles registered in sub-RTOs. These areas now have newer RTOs under which their records are now available.
+GA—Goa
+Code	Office location	Jurisdiction area	Annotations
+GA-01	Panaji	North Goa district	not in use
+GA-02	Margao	South Goa district	not in use
+GA-03	Mapusa	Bardez taluka	
+GA-04	Bicholim	Bicholim taluka, Sattari taluka	
+GA-05	Ponda	Ponda taluka	
+GA-06	Vasco da Gama	Mormugao taluka	
+GA-07	Panaji	Tiswadi taluka	
+GA-08	Margao	Salcette taluka	
+GA-09	Quepem	Quepem taluka, Sanguem taluka	
+GA-10	Canacona	Canacona taluka	
+GA-11	Pernem	Pernem taluka	
+GA-12	Dharbandora	Dharbandora taluka	
+GJ—Gujarat
+
+Administrative map of Gujarat with RTO codes for vehicle registration
+Code	Office location	Jurisdiction
+GJ-01	Ahmedabad (West), Subhash Bridge	parts of Ahmedabad district
+GJ-02	Mehsana	Mehsana district
+GJ-03	Rajkot	Rajkot district
+GJ-04	Bhavnagar	Bhavnagar district
+GJ-05	Surat city	parts of Surat district
+GJ-06	Vadodara city	parts of Vadodara district
+GJ-07	Nadiad	Kheda district
+GJ-08	Palanpur	Banaskantha district
+GJ-09	Himmatnagar	Sabarkantha district
+GJ-10	Jamnagar	Jamnagar district
+GJ-11	Junagadh	Junagadh district
+GJ-12	Bhuj, West Kutch	parts of Kutch District
+GJ-13	Surendranagar	Surendranagar district
+GJ-14	Amreli	Amreli district
+GJ-15	Valsad	Valsad district
+GJ-16	Bharuch	Bharuch district
+GJ-17	Godhra	Panchmahal district
+GJ-18	Gandhinagar	Gandhinagar district[a]
+GJ-19	Bardoli	parts of Surat district
+GJ-20	Dahod	Dahod district
+GJ-21	Navsari	Navsari district
+GJ-22	Rajpipla	Narmada district
+GJ-23	Anand	Anand district
+GJ-24	Patan	Patan district
+GJ-25	Porbandar	Porbandar district
+GJ-26	Vyara	Tapi district
+GJ-27	Ahmedabad (East), Vastral	parts of Ahmedabad district
+GJ-28	Pal, Surat	parts of Surat district
+GJ-29	Vadodara rural	parts of Vadodara district
+GJ-30	Waghai	Dang district
+GJ-31	Modasa	Aravalli
+GJ-32	Veraval	Gir Somnath
+GJ-33	Botad	Botad district
+GJ-34	Chhota Udaipur	Chhota Udaipur district
+GJ-35	Lunawada	Mahisagar district
+GJ-36	Morbi	Morbi district
+GJ-37	Khambhaliya	Devbhoomi Dwarka district
+GJ-38	Bavla	Ahmedabad Rural
+GJ-39	Anjar, East Kutch	parts of Kutch District
+ All GSRTC buses are registered here.
+HP—Himachal Pradesh
+Code	Office location	Jurisdiction area	Annotations
+HP-01 & HP-02		Statewide (tourist buses & taxis)	
+HP-03	Shimla (urban)		
+HP-04	Kangra at Dharamsala		
+HP-05	Mandi		
+HP-06	Rampur Bushahr		
+HP-07	Shimla (urban)		
+HP-08	Chaupal		
+HP-09	Theog		
+HP-10	Rohru		
+HP-11	Arki		
+HP-12	Nalagarh		
+HP-13	Kandaghat		
+HP-14	Solan		
+HP-15	Parwanoo		
+HP-16	Rajgarh		
+HP-16AA	Pachhad, Sirmaur		
+HP-17	Paonta Sahib		
+HP-18	Nahan		
+HP-19	Amb		
+HP-19AA	Gagret, Una		
+HP-20	Una		
+HP-21	Barsar, Hamirpur		
+HP-22	Hamirpur		
+HP-23	Ghumarwin		
+HP-24	Bilaspur		
+HP-25	Kalpa		
+HP-26	Nichar at Bhaba Nagar		
+HP-27	Pooh		
+HP-28	Sarkaghat		
+HP-29	Jogindernagar		
+HP-30	Karsog		
+HP-31	Sundernagar		
+HP-32	Gohar, Mandi		
+HP-33	Mandi		
+HP-33AA	Kotli		
+HP-34	Kullu		
+HP-35	Anni, Kullu		
+HP-35AA	Nirmand		
+HP-36	Dehra		
+HP-37	Palampur		
+HP-38	Nurpur		
+HP-39	Dharamshala		
+HP-40	Kangra		
+HP-41	Kaza		
+HP-42	Keylong		
+HP-43	Udaipur, Lahaul and Spiti		
+HP-44	Churah, Chamba		
+HP-45	Pangi		
+HP-46	Bharmour		
+HP-47	Dalhousie		
+HP-48	Chamba		
+HP-49	Banjar		
+HP-50	Shimla	Auto-rickshaws	
+HP-51 & HP-52	Shimla (rural)		
+HP-53	Baijnath		
+HP-54	Jawali		
+HP-55	Nadaun		
+HP-56	Jaisinghpur		
+HP-57	Chowari		
+HP-58	Manali		
+HP-59	Solan		
+HP-60	Hamirpur		
+HP-61	Kullu		
+HP-62	Shimla		
+HP-63	Shimla		
+HP-64	Solan		
+HP-65	Mandi		
+HP-66	Kullu		
+HP-67	Hamirpur		
+HP-68	Kangra at Dharmsala		
+HP-69 & HP-70	Bilaspur		
+HP-71	Nahan		
+HP-72	Una		
+HP-73	Chamba		
+HP-74	Bhoranj, Hamirpur		
+HP-75	Jubbal		
+HP-76	Paddhar, Mandi		
+HP-77	Dodra Kawar, Shimla		
+HP-78	Bangana, Una		
+HP-79	Sangrah, Sirmaur		
+HP-80	Haroli, Una		
+HP-81	Salooni		
+HP-82	Balh, Mandi		
+HP-83	Jawalaji, Kangra		
+HP-84	Sujanpur Tihra, Hamirpur		
+HP-85	Shillai, Sirmaur		
+HP-86	Dharampur, Mandi		
+HP-87	Janjehli, Mandi		
+HP-87AA	Bali Chowki, Mandi		
+HP-88	Fatehpur, Kangra		
+HP-89	Jhandutta, Bilaspur		
+HP-90	Shahpur, Kangra		
+HP-91	Naina Devi at Swarghat, Bilaspur		
+HP-92	Rampur Bushahr		
+HP-93	Nalagarh		
+HP-94	Nagrota Bagwan		
+HP-95	Kumarsain		
+HP-96	Dheera, Kangra		
+HP-97	Indora		
+HP-98	Kasauli		
+HP-99	Kotkhai		
+HR—Haryana
+Code	Office location	Jurisdiction area	Superordinate division	Annotations
+HR-01	Ambala	Ambala	Ambala district	
+HR-02	Jagadhari	Yamunanagar	Yamunanagar district	
+HR-03	Panchkula	Panchkula	Panchkula district	
+HR-04	Naraingarh	Naraingarh	Ambala district	
+HR-05	Karnal	Karnal	Karnal district	
+HR-06	Panipat	Panipat	Panipat district	
+HR-07	Thanesar	Thanesar	Kurukshetra district	
+HR-08	Kaithal	Kaithal	Kaithal district	
+HR-09	Guhla	Guhla	Kaithal district	
+HR-10	Sonipat	Sonipat	Sonipat district	
+HR-11	Gohana	Gohana	Sonipat district	
+HR-12	Rohtak	Rohtak	Rohtak district	
+HR-13	Bahadurgarh	Bahadurgarh	Jhajjar district	
+HR-14	Jhajjar	Jhajjar	Jhajjar district	
+HR-15	Meham	Meham	Rohtak district	
+HR-16	Bhiwani	Bhiwani	Bhiwani district	
+HR-17	Siwani	Siwani	Bhiwani district	
+HR-18	Loharu	Loharu	Bhiwani district	
+HR-19	Charkhi Dadri	Charkhi Dadri	Charkhi Dadri district	
+HR-20	Hisar	Hisar	Hisar district	
+HR-21	Hansi	Hansi	Hisar district	
+HR-22	Fatehabad	Fatehabad	Fatehabad district	
+HR-23	Tohana, Jakhal Mandi	Tohana	Fatehabad district	
+HR-24	Sirsa	Sirsa	Sirsa district	
+HR-25	Mandi Dabwali	Mandi Dabwali	Sirsa district	
+HR-26	Gurugram (Gurugram North)	Old Gurgaon city (Northern Parts)	Gurugram district	
+HR-27	Nuh	Nuh	Mewat district	
+HR-28	Ferozepur Jhirka	Ferozepur Jhirka	Mewat district	
+HR-29	Ballabgarh (Faridabad South)	Ballabgarh	Faridabad district	
+HR-30	Palwal	Palwal	Palwal district	
+HR-31	Jind	Jind	Jind district	
+HR-32	Narwana	Narwana	Jind district	
+HR-33	Safidon	Safidon	Jind district	
+HR-34	Mahendragarh	Mahendragarh	Mahendragarh district	
+HR-35	Narnaul	Narnaul	Mahendragarh district	
+HR-36	Rewari	Rewari	Rewari district	
+HR-37	Ambala	Ambala	Ambala district	commercial vehicles only
+HR-38	Faridabad	Faridabad district	Faridabad district	commercial vehicles only
+HR-39	Hisar	Hisar district	Hisar district	commercial vehicles only
+HR-40	Assandh	Assandh	Karnal district	
+HR-41	Pehowa	Pehowa	Kurukshetra district	
+HR-42	Ganaur	Ganaur	Sonipat district	
+HR-43	Kosli	Kosli	Rewari district	
+HR-44	Ellenabad	Ellenabad	Sirsa district	
+HR-45	Karnal	Karnal district	Karnal district	commercial vehicles only
+HR-46	Rohtak	Rohtak district	Rohtak district	commercial vehicles only
+HR-47	Rewari	Rewari district	Rewari district	commercial vehicles only
+HR-48	Tosham	Tosham, Bawani Khera	Bhiwani district	
+HR-49	Kalka	Kalka	Panchkula district	
+HR-50	Hodal	Hodal	Palwal district	
+HR-51	Faridabad (Faridabad North)	Faridabad	Faridabad district	
+HR-52	Hathin	Hathin	Palwal district	
+HR-53	Adampur	Adampur	Hisar district	
+HR-54	Barara	Barara	Ambala district	
+HR-55	Gurugram	Gurugram district	Gurugram district	commercial vehicles only
+HR-56	Jind	Jind, Julana	Jind district	commercial vehicles only
+HR-57	Sirsa	Sirsa district	Sirsa district	commercial vehicles only
+HR-58	Yamunanagar	Yamunanagar district	Yamunanagar district	commercial vehicles only
+HR-59	Ratia	Ratia	Fatehabad district	
+HR-60	Samalkha	Samalkha	Panipat district	
+HR-61	Bhiwani	Bhiwani district	Bhiwani district	commercial vehicles only
+HR-62	Fatehabad	Fatehabad district	Fatehabad district	commercial vehicles only
+HR-63	Jhajjar	Jhajjar, Bahadurgarh	Jhajjar district	commercial vehicles only
+HR-64	Kaithal	Kaithal district	Kaithal district	commercial vehicles only
+HR-65	Kurukshetra	Kurukshetra district	Kurukshetra district	commercial vehicles only
+HR-66	Narnaul	Mahendragarh district	Mahendragarh district	commercial vehicles only
+HR-67	Panipat	Panipat district	Panipat district	commercial vehicles only
+HR-68	Panchkula	Panchkula district	Panchkula district	commercial vehicles only
+HR-69	Sonipat	Sonipat district	Sonipat district	commercial vehicles only
+HR-70	Chandigarh	Chandigarh		This series belongs to the Transport Commissioner in Chandigarh. It is meant for special out of turn VIP or special demand numbers. Also re-registered vehicles whose original number was from 1 to 100 (now retained by the original buyer for his new vehicle) or government auctioned vehicles and others are getting numbers from this series.
+HR-71	Bilaspur	Bilaspur	Yamunanagar district	
+HR-72	Sohna	Sohna	Gurugram district	
+HR-73	Palwal	Palwal district	Palwal district	commercial vehicles only
+HR-74	Nuh	Mewat district	Mewat district	commercial vehicles only
+HR-75	Indri	Indri	Karnal district	
+HR-76	Pataudi	Pataudi, Farrukhnagar	Gurugram district	
+HR-77	Beri	Beri	Jhajjar district	
+HR-78	Shahabad Markanda	Shahabad Markanda	Kurukshetra district	
+HR-79	Kharkhoda	Kharkhoda	Sonipat district	
+HR-80	Barwala	Barwala	Hisar district	
+HR-81	Bawal	Bawal	Rewari district	
+HR-82	Kanina	Kanina	Mahendragarh district	
+HR-83	Kalayat	Kalayat	Kaithal district	
+HR-84	Charkhi Dadri	Charkhi Dadri district	Charkhi Dadri district	commercial vehicles only
+HR-85	Ambala Cantt	Ambala Cantt	Ambala district	
+HR-86	Narnaund	Narnaund	Hisar district	
+HR-87	Badkhal (Faridabad West)	Badkhal Tehsil	Faridabad district	
+HR-88	Badhra	Badhra	Charkhi Dadri district	
+HR-89	Badli	Badli	Jhajjar district	
+HR-90	Uchana	Uchana	Jind district	
+HR-91	Gharaunda	Gharaunda	Karnal district	
+HR-92	Radaur	Radaur	Yamunanagar district	
+HR-93	Punhana	Punhana	Mewat district	
+HR-94	Kalanwali	Kalanwali	Sirsa district	
+HR-95	Sampla	Sampla	Rohtak district	
+HR-96	Taoru	Taoru	Mewat district	
+HR-97	Ladwa	Ladwa	Kurukshetra	
+HR-98	Badshahpur (Gurugram South)	New Gurgaon City (southern parts) including Badshahpur & Wazirabad	Gurugram district	
+HR-99		entire Haryana		Temporary numbers for new vehicles
+JH—Jharkhand
+Code	Office location	Jurisdiction area	Annotations
+JH-01	Ranchi	Ranchi district	
+JH-02	Hazaribagh	Hazaribagh district	
+JH-03	Daltonganj	Palamu district	
+JH-04	Dumka	Dumka district	
+JH-05	Jamshedpur	East Singhbhum district	
+JH-06	Chaibasa	West Singhbhum district	
+JH-07	Gumla	Gumla district	
+JH-08	Lohardaga	Lohardaga district	
+JH-09	Bokaro	Bokaro district	
+JH-10	Dhanbad	Dhanbad district	
+JH-11	Giridih	Giridih district	
+JH-12	Koderma	Koderma district	
+JH-13	Chatra	Chatra district	
+JH-14	Garhwa	Garhwa district	
+JH-15	Deoghar	Deoghar district	
+JH-16	Pakur	Pakur district	
+JH-17	Godda	Godda district	
+JH-18	Sahibganj	Sahebganj district	
+JH-19	Latehar	Latehar district	
+JH-20	Simdega	Simdega district	
+JH-21	Jamtara	Jamtara district	
+JH-22	Seraikela Kharsawan	Seraikela Kharsawan district	
+JH-23	Khunti	Khunti district	
+JH-24	Ramgarh	Ramgarh district	
+JK—Jammu and Kashmir
+Code	Office location	Jurisdiction area	Annotations
+JK-01	Srinagar	Srinagar District	
+JK-02	Jammu	Jammu District	
+JK-03	Anantnag	Anantnag District	
+JK-04	Budgam	Budgam District	
+JK-05	Baramulla	Baramulla District	
+JK-06	Doda	Doda District	
+JK-08	Lakhanpur, Kathua	Kathua District	
+JK-09	Kupwara	Kupwara district	
+JK-11	Rajouri	Rajouri District	
+JK-12	Poonch	Poonch district, India	
+JK-13	Pulwama	Pulwama District	
+JK-14	Udhampur	Udhampur District	
+JK-15	Bandipora	Bandipora District	
+JK-16	Ganderbal	Ganderbal District	
+JK-17	Kishtwar	Kishtwar District	
+JK-18	Kulgam	Kulgam District	
+JK-19	Ramban	Ramban District	
+JK-20	Reasi	Reasi District	
+JK-21	Samba	Samba District	
+JK-22	Shopian	Shopian District	
+KA—Karnataka
+Code	Office location	Office address	Jurisdiction area	Annotations
+KA-01	HSR Layout	21st Main Road, Agara, HSR Layout 1st Sector, Bengaluru (KA), 560102	Bengaluru Urban District	
+Covers Central Bengaluru
+
+KA-02	Rajajinagara	12th Main Road, Rajajinagara 2nd Block, Bengaluru - 560010	Bengaluru Urban District	
+Covers Western Bengaluru
+
+KA-03	Kasturinagar	3rd D Main Road, east of NGEF Layout, Kasturinagara, Bengaluru - 560016	Bengaluru Urban District	
+Covers Eastern Bengaluru
+
+KA-04	Yeshwantpur	Subedarchatram Road, Dr. Ambedkar Nagara, Yeshwanthpura, Bengaluru - 560022	Bengaluru Urban District	
+Covers Northern Bengaluru
+
+KA-05	Jayanagar	30th Cross Road, Jayanagara 4th T Block, Bengaluru - 560011	Bengaluru Urban District	
+Covers Southern Bengaluru
+
+KA-06	Tumakuru	Bengaluru - Honnavara Road, Ashok Nagara, Tumakuru - 572103	Tumakuru District	
+Covers Tumkur Town and Taluk, Kunigal and Gubbi Taluks
+
+KA-07	Kolar	Rahmat Nagara Main Road, Kanakanapalya, Kolar - 563101	Kolar District	
+Covers Kolar Town and Taluk, Srinivasapura and Mulbagal Taluks
+
+KA-08	Kolar(KGF region)	DK Halli Main Road, Henry Colony, Kolar Gold Fields, Kolar District (KA) - 563120	Kolar District	
+Covers K.G.F. Town, Bangarpet and Malur Taluks
+
+KA-09	Mysuru	MG Road, Chamarajapura, Lakshmipura, Mysuru - 570004	Mysuru District	
+Covers Western Mysuru City Suburbs, Western parts of Mysuru Taluk and Nanjangud Taluk
+
+KA-10	Chamarajanagar	Chamarajanagara Bypass Road, Mallayanapura, Chamarajanagara - 571313	Chamarajanagara District	
+Covers entire Chamarajanagar District
+
+KA-11	Mandya	RTO Road, Subash Nagara, Mandya - 571401	Mandya District	
+Covers Mandya Town and Taluk, Malavalli, Maddur, Srirangapatna and Pandavapura Taluks
+
+KA-12	Madikeri	Abbey Falls Road, Madikeri, Kodagu District (KA) - 571201	Kodagu District	
+Covers entire Kodagu District
+
+KA-13	Hassan	Arsikere - Hassan Road, Sri Rama Nagara, Hassan - 573202	Hassan District	
+Covers Hassan Town and Taluk, Arasikere, Holenarasipura, Channarayapatna and Arakalgud Taluks
+
+KA-14	Shivamogga	Savlanga Road, Basavanagudi, Shivamogga - 577201	Shivamogga District	
+Covers Shivamogga Town and Taluk, Bhadravathi and Tirthahalli Taluks
+
+KA-15	Sagara	Ikkeri Road, Sagara, Shivamogga District (KA) - 577401	Shivamogga District	
+Covers Sagara Town and Taluk, Soraba, Shikaripura, and Hosanagar Taluks
+
+KA-16	Chitradurga	NH Service Road, Maniyuru, Chitradurga - 577501	Chitradurga District	
+Covers entire Chitradurga District
+
+KA-17	Davanagere	Kondajji Road, Devaraj Urs Layout B Block, Davanagere - 577004	Davanagere District	
+Covers entire Davanagere District
+
+KA-18	Chikkamagaluru	KM Road, Chikkamagaluru - 577101	Chikkamagaluru District	
+KA-19	Mangaluru	Maidan Road, Attavara, Mangaluru, Dakshina Kannada District (KA) - 575001	Dakshina Kannada District	
+KA-20	Udupi	Dr. VS Acharya Road, Saralebettu, Manipal, Udupi District (KA) - 576104	Udupi District	
+Covers entire Udupi District
+
+KA-21	Puttur	RTO Road, Bannur, Puttur, Dakshina Kannada District (KA) - 574203	Dakshina Kannada District	
+KA-22	Belagavi	Bachi - Raichur Road, Khade Bazar, Raviwar Peth, Belagavi - 590016	Belagavi District	
+KA-23	Chikkodi	Nippani Road, Chikkodi, Belagavi District (KA) - 591201	Belagavi District	
+KA-24	Bailhongal	Devalapura Road, Bailhongal, Belagavi District (KA) - 591102	Belagavi District	
+KA-25	Dharwad	Hubballi - Dharwad Road, Navanagara, Hubballi, Dharwad District (KA) - 580025	Dharwad District	
+KA-26	Gadag	Mulgund Road, Malasamudra, Gadag - 582103	Gadag District	
+Covers entire Gadag District
+
+KA-27	Haveri	PB Road, Haveri - 581110	Haveri District	
+Covers Haveri Town and Taluk, Hanagal, Shiggaon and Savanoor Taluks
+
+KA-28	Vijayapura	Bagalkote Road, Bammanajogi, Vijayapura - 586109	Vijayapura District	
+Covers entire Vijayapura District
+
+KA-29	Bagalkote	Navanagara Bypass Road, Vidyagiri, Bagalkote - 587103	Bagalkote District	
+KA-30	Karwar	Bypass Road, Kodibag, Karwar, Uttara Kannada District (KA) - 581301	Uttara Kannada District	
+KA-31	Sirsi	Bashettikere Road, Basaveshwara Nagara, Sirsi, Uttara Kannada District (KA) - 581402	Uttara Kannada District	
+KA-32	Kalaburagi	Sedam Road, Badepura Colony, Kalaburagi - 585101	Kalaburagi District	
+Covers entire Kalaburagi District
+
+KA-33	Yadgir	Yadgir - Chittapura Road, Yadgir - 585202	Yadgir District	
+Covers entire Yadgir District
+
+KA-34	Ballari	Old Trunk Road, Cantonment, Ballari - 583104	Ballari District	
+Covers entire Ballari District
+
+KA-35	Hosapete	Hosapete - Harihara Road, Vivekananda Nagara, Hosapete, Vijayanagara District (KA) - 583201	Vijayanagara District	
+Covers entire Vijayanagara District
+
+KA-36	Raichur	Mantralayam Road, Ashok Nagara, Raichur - 584103	Raichur District	
+Covers entire Raichur District
+
+KA-37	Koppal	Ballari - Hubballi Road, Kidadhal, Koppal - 583231	Koppal District	
+Covers entire Koppal District
+
+KA-38	Bidar	Naubad Road, Naubad, Bidar - 585402	Bidar District	
+KA-39	Bhalki	Udgir - Bidar Road, Gunj, Bhalki, Bidar District (KA) - 585328	Bidar District	
+KA-40	Chikkaballapura	Chitravathi Road, Honnenahalli, Chikkaballapura - 562101	Chikkaballapura District	
+KA-41	Jnana Bharathi	Ullal Main Road, Jnana Bharathi, Ullal, Bengaluru - 560091	Bengaluru Urban District	
+Covers greater Bengaluru's western suburbs
+
+KA-42	Ramanagara	Mysuru Road, Vijayanagara, Ramanagara - 562159	Ramanagara District	
+Covers entire Ramanagara District
+
+KA-43	Devanahalli	Nandi Hills Road, Kurubarakunte, Devanahalli, Bengaluru Rural District (KA) - 562110	Bengaluru Rural District	
+Covers Devanahalli and Doddaballapura Taluks
+
+KA-44	Tiptur	Halepalya Road, Krishnaraja Extension, Tiptur, Tumakuru District (KA) - 572201	Tumakuru District	
+Covers Tiptur, Turuvekere and Chikkanayakanahalli Taluks
+
+KA-45	Hunsur	RTO Road, Housing Board Colony, Hunsur, Mysuru District (KA) - 571105	Mysuru District	
+Covers Hunsur, Piriyapatna, H.D. Kote and K.R. Nagar Taluks
+
+KA-46	Sakleshpura, Hassan District	Bengaluru - Mangaluru Road, Kollahalli, Sakleshpura, Hassan District (KA) - 573127	Hassan District	
+Covers Sakleshpura, Alur and Belur Taluks
+
+KA-47	Honnavar, Uttara Kannada District	Honnavar - Areangadi Road, Rama Tirtha, Honnavar, Uttara Kannada District (KA) - 581341	Uttara Kannada District	
+Covers Honnavara, Bhatkal and Kumta Taluks
+
+KA-48	Jamkhandi, Bagalkote District	Mudhol Road, Jamakhandi, Bagalkote District (KA) - 587301	Bagalkote District	
+KA-49	Gokak, Belagavi District	Gokak Main Road, Gokak, Belagavi District (KA) - 591307	Belagavi District	
+KA-50	Yelahanka, Bengaluru	Singanayakanahalli Road, Singanayakanahalli, Yelahanka, Bengaluru - 560064	Bengaluru Urban District	
+Covers greater Bengaluru's northern suburbs
+
+KA-51	Electronic City, Bengaluru	5th Main Road, BTM Layout 4th Stage, Bengaluru - 560076	Bengaluru Urban District	
+Covers greater Bengaluru's southern suburbs
+
+KA-52	Nelamangala, Bengaluru Rural District	Rahuthnahalli Main Road, Harokyathanahalli, Nelamangala, Bengaluru Rural District (KA) - 562162	Bengaluru Rural District	
+Covers Nelamangala Taluk
+
+KA-53	Krishnarajapuram, Bengaluru	Old Madras Road, Hosabasavanapura, Krishnarajapuram, Bengaluru - 560049	Bengaluru Urban District and parts of Bengaluru Rural District	
+Covers greater Bengaluru's eastern suburbs and Hoskote Taluk in Bengaluru Rural District
+
+KA-54	Nagamangala, Mandya District	Basaveshwara Nagara Road, Nagamangala, Mandya District (KA) - 571432	Mandya District	
+Covers Nagamangala & K.R. Pet Taluks
+
+KA-55	Mysuru East	Mysuru Ring Road, Hale Kesare, Mysuru - 570019	Mysuru District	
+Covers Eastern Mysuru Suburbs, Eastern parts of Mysuru Taluk and T. Narasipura Taluk
+
+KA-56	Basavakalyan, Bidar District	Basavakalyan Main Road, Morkhandi, Basavakalyan, Bidar District (KA) - 585327	Bidar District	
+KA-57	Shantinagara ,KSRTC and BMTC buses	BMTC Depot Road, Shanthinagara, Bengaluru - 560027	Bengaluru Urban District	
+Only for "KA-57 F" series exclusively for KSRTC and BMTC buses. Autorickshaw permits are also available here, although registration has to be done from Bengaluru's other RTOs.
+
+KA-59	Chandapura, Bengaluru Urban District	Anekal Road, Byagadadenahalli, Chandapura, Bengaluru Urban District (KA) - 562107	Bengaluru Urban District	
+Covers Anekal Taluk
+
+KA-63	Dharwad East	Hubballi - Dharwad Road, Gabbur, Hubballi, Dharwad District (KA) - 580028	Dharwad District	
+KA-64	Madhugiri, Tumkur District	Gauribidanuru Road, Madhugiri, Tumakuru District (KA) - 572132	Tumakuru District	
+Covers Madhugiri, Sira, Koratagere and Pavagada Taluks
+
+KA-65	Dandeli, Uttara Kannada District	DFA Road, Dandeli, Uttara Kannada District (KA) - 581325	Uttara Kannada District	
+KA-66	Tarikere, Chikkamagaluru District	Bengaluru - Shivamogga Road, Tarikere, Chikkamagaluru District (KA) - 577228	Chikkamagaluru District	
+KA-67	Chintamani, Chikkaballapura District	Hosakote - Chintamani Road, Kanampalli Layout, Chintamani, Chikkaballapura District (KA) - 563125	Chikkaballapura District	
+KA-68	Ranebennur, Haveri District	PB Road, Sangolli Rayanna Nagara, Ranebennuru, Haveri District (KA) - 581115	Haveri District	
+Covers Ranebennur Town and Taluk, Hirekerur and Byadagi Taluks
+
+KA-69	Ramdurg, Belagavi District	Belagavi Road, Radhapurapete, Ramdurga, Belagavi District (KA) - 591123	Belagavi District	
+KA-70	Bantwal, Dakshina Kannada District	Bengaluru - Mangaluru Road, Melkar, Bantwal, Dakshina Kannada District (KA) - 574231	Dakshina Kannada District	
+KA-71	Athani, Belagavi District	Gokak Road, Haluvalli, Athani, Belagavi District (KA) - 591304	Belagavi District	
+Covers Athnani, Kagwad, Raibag, Kudachi taluks
+
+Specifics in the KA series
+Alphabets	Meaning
+(No alphabet) Example: KA 09 2418	This series is reserved for all types of commercial vehicles. (Yellow Board)
+A, B, C, D	These four letters are reserved for all types of commercial vehicles. (Yellow Board)
+E, H, J, K, L, Q, R, S, U, V, W, X, Y	These letters are reserved for private two wheelers.
+F, FA	The letter F is reserved for KSRTC, KKRTC, NWKRTC and BMTC buses.
+G	The letter G is reserved for all Karnataka government vehicles including police vehicles, ambulances, legislative assembly vehicles, municipal corporation vehicles, etc.
+M, N, P, Z	These letters are reserved for private passenger vehicles. Excavators, bulldozers and boring rigs also use these registrations.
+T	The letter T is reserved for tractors and trailers.
+I, O	These two letters are not offered as they can lead to confusion with 1 (one) and 0 (zero).
+KL—Kerala
+Code	Office location	Jurisdiction area	Annotations
+KL-01	Thiruvananthapuram	Thiruvananthapuram Corporation, Thiruvananthapuram Taluk Southern Areas	Most Kerala Government vehicles, including Police and Motor Vehicle Departments, are registered here.
+KL-02	Kollam	Kollam corporation, Tirumullavaram, Shaktikulangara, Anandavalleeswaram, Chinnakada, Kadapakkada, Meevaram, Kottiyam, Kundara, Kannanalloor, Adichanalloor, Paravur	
+KL-03	Pathanamthitta	Pathanamthitta City, Kaipattoor, Omallur, Malayalapuzha, Mylapra, Naranganam, Sabarigiri, Aranmula, Kozhencherri	
+KL-04	Alappuzha	Alappuzha city, Ambalappuzha, Aryad, Komalapuram, Kommadi, Polathai, Thumboli, Punnapra, Kalavur, Ananthanarayanapuram	
+KL-05	Kottayam	Kottayam city, Kodimatha, Manarcaud, Pampady, Tirunnakara, Nattakam, Tiruvarppu, Tiruvathikkal, Sankranthi, Vijayapuram, Pallickathodu	
+KL-06	Idukki	Idukki, Painav	
+KL-07	Kochi, Ernakulam District.	Kochi Corporation Area, Kalamaserry, Kakkanad, Kochi SEZ, Thrikkakara, Info Park, Smart City, Thiruvankulam, Brahmapuram	Covers parts of Greater Kochi, including those outside Kochi Corporation limits	
+KL-08	Thrissur	Thrissur Corporation, Ollur, Kuriachira, Ammaddam, Ramavarmapuram, Parvattani, Kuttanellur	
+KL-09	Palakkad	Palakkad city, Kallepully, Kannadi, Mundur, Kanjikode, Pathirippala, Kongad	
+KL-10	Malappuram (part of Ernad, Perintalmanna & Tirur Taluks)	Malappuram, Manjeri, Anakkayam, Pookkoottor, Kavanur, Pulpetta, Edavanna, Pandikkad, Thrikkalangode, Koottilangadi, Kodur, Ponmala	
+KL-11	Kozhikode	Kozhikode North, Kozhikode South, Elathur, Peruvazhal, Mavoor	
+KL-12	Kalpetta, Wayanad District	Kalpetta Township, Chitragiri, Vythiri	
+KL-13	Kannur	Kannur corporation, Valapattanam, Papinnisheri, Kannapuram, Dharmadam, Parashinikadavu	
+KL-14	Kasaragod	Kasaragod, Chandragiri, Manjeshwaram, Uppala, Mogral Puttur, Kumbla	
+KL-15	Kerala State Road Transport Corporation, Thiruvananthapuram	Used exclusively for KSRTC and KURTC buses	
+KL-16	Attingal, Thiruvananthapuram District	Chirayinkeezhu Taluk	
+KL-17	Muvattupuzha, Ernakulam District	Muvattupuzha, Vazhakulam, Koothattukulam, Piravom	
+KL-18	Vadakara, Kozhikode District	Vadakara, Nadapuram	
+KL-19	Parassala, Thiruvananthapuram District	Padmanabhapuram, Tiruvattar, Tiruparappu, Kulasekaram, Amaravilla, Dhanuvachapuram, Marthandam Poovaar	
+KL-20	Neyyattinkara, Thiruvananthapuram District	Neyyathinkara, Balaramapuram, Vedivachankovil, Pravachambalam, Pallichal	
+KL-21	Nedumangad, Thiruvananthapuram District	Nedumangad, Arruvikara, Bhartheeswaram, Palode, Vithura, Ponmudi, Karakulam, Perrorkada	
+KL-22	Kazhakkoottam, Thiruvananthapuram	Thiruvananthapuram Corporation, Thiruvananthapuram Taluk Northern Areas		
+KL-23	Karunagappalli, Kollam District	Karunagapalli, Oachira, Mynagapalli, Chavara, Amrithapuri, Thazhava, Paavumba	
+KL-24	Kottarakkara, Kollam District	Kottarakara, Malanada, Enathu, Pavitreeswaram, Chengamanad. Mavadi	
+KL-25	Punalur, Kollam District	Punalur, Thenmala, Aryankavu, Bhagavathipuram, Anchal, Achankovil	
+KL-26	Adoor, Pathanamthitta District	Adoor Taluk	
+KL-27	Tiruvalla, Pathanamthitta District	Tiruvalla, Tirumoolapuram, Othera, Manjadi, Parumala, Valanjavattom	
+KL-28	Mallappally, Pathanamthitta District	Mallappally, Kaviyoor	
+KL-29	Kayamkulam, Alappuzha District	Karthikapalli, Kayankulam Town, Krishnapuram, Harippad, Shaktipuram, Karuvatta, Manarssala	
+KL-30	Chengannur, Alappuzha District	Chengannur, Cheriyanad, Budhannur, Pandanad, Venmani-kalyathra	
+KL-31	Mavelikkara, Alappuzha District	Mavelikara, Chettikulangara, Kattanam, Mannar, Charummod, Adhikattukulangara, Aakanattukara, Vallikonam, Vathukonam, Vettiyar	
+KL-32	Cherthala, Alappuzha District	Cherthala, Tiruvizha, Pattanakkad, Vayalar, Turavur, Aroor, Eramalloor, Varanad, Mannancherry, Panavally, Varanam	
+KL-33	Changanassery, Kottayam District	Changanassery, Nalukodi, Kurichi, Chingavanam, Karukachal, Perunna,Vazhoor,Kangazha,Vellavoor	
+KL-34	Kanjirapalli, Kottayam District	Kanjirapalli, Erumelli, Mundakayam, Ponkunnam, Chirrakadavu, Anchillappa, Anakkal,Koottickal	
+KL-35	Pala, Kottayam District	Meenachil, Erattupetta, Poonjar, Bharananganam, Kadanad, Kidangoor, Mutholi, Poovarani, Melukavu, Thalanad, Teekoi, Moonnilavu, Thalappulam, Thidanad	
+KL-36	Vaikom, Kottayam District	Vaikom, Talayolaparambu . Udayanapuram, Vadayar, Kaduthuruthi, Vechoor	
+KL-37	Vandiperiyar, Idukki District	Peerumed, Elappara, Kuttikanam, Vandiperiyar, Kumili, Kattappana, Kambammedu, Mangaladevi	
+KL-38	Thodupuzha, Idukki District	Thodupuzha, Kumaramangalam .Vengannur, Muttum, Uravvappara, Malankara, Moolamattam	
+KL-39	Thripunithura, Ernakulam District	Thripunithura, Udayamperoor, Cheppanam-Chattamma, Kanjiramattom, Mulanthuruthy, Chottanikkara	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-40	Perumbavoor, Ernakulam District	Kunnathunad, Nellad, Valayanchirangara, Chellamattom, Thottuva, Rayamangalam, Pattimattam	
+KL-41	Aluva, Ernakulam District	Aluva	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-42	North Paravur, Ernakulam District	North Paravur, Munambam, Cherrai, Vypin, Puthuvype	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-43	Fort Kochi, Ernakulam District	Kochi Corporation Area, Pallurthi, Kumbalangi	Covers parts of Greater Kochi, including those outside Kochi Corporation limits	
+KL-44	Kothamangalam, Ernakulam District	Kothamangalam Taluk, Odakkali, Neriyamangalam, Bhootathankettu	
+KL-45	Irinjalakuda, Thrissur District	Mukundapuram Taluk, Ashtamichira, Annammanada, Mala, Cherppu, Kandassamkadavu	
+KL-46	Guruvayur, Thrissur District	Guruvayur Taluk, Chhavakad, Chettuva, Pavaratti	
+KL-47	Kodungallur, Thrissur District	Kodungallur, Methala, Sringapuram	
+KL-48	Wadakkancherry, Thrissur District	Wadakkancherry, Thiruvilwamala, Pazhayannur, Chelakkara, Anthimahal, Uthralikavu, Mulangunathukavu, Deshamangalam, Chittada, Malakha, Akamalavaram	
+KL-49	Alathur, Palakkad District	Alathur, Vadakkenchery, Kavassery, Kuzhalmannam, Thenkurissi, Kottayi, Mathur, Peringottukurissi	
+KL-50	Mannarkkad, Palakkad District	Mannarkkad, Attapadi, Tachampara, Karimba, Kanjirapuzha	
+KL-51	Ottapalam, Palakkad District	Ottapalam, Shoranur, Palapuram, Chinnakathur, Vengasserri, Cherpulasherri, Vandannamkurishi, Sreekrishnapuram	
+KL-52	Pattambi, Palakkad District	Pattambi, Thrithala, Koottanad, Vallapuzha, Koppam	
+KL-53	Perinthalmanna, Malappuram District	Perinthalmanna, Edappatta, Kizhattur, Aliparamba, Elamkulam, Thahekode, Vettathur, Pulamnathole, Melatur, Angadippuram, Kuruva, Mankada, Puzhakatiri, Moorkkanad, Makkaraparamba	
+KL-54	Ponnani, Malappuram District	Ponnani, Edappal, Alankode, Marancheri, Nannammukku, Perumpadappu, Veliynakode, Thavanur, Kaladi, Vattamkulam	
+KL-55	Tirur, Malappuram District	Tirur, Tirunnavaya, Tanur, Valancheri, Kalapancheri, Valavannur, Vettam, Thalakkad, Athavanad, Ponmundam, Cheriyamundam, Ozhur, Nirmaruthur, Thanalur, Edayur, Irimbiliyma, Marakkara, Kuttippuram, Purathur, Mangalam, Thrippangode	
+KL-56	Koyilandy, Kozhikode District	Koyilandy, Payyoli, Chemancheri	
+KL-57	Koduvally, Kozhikode District	Mukkam, Kunnamangalam, Koduvally, Thamarasseri, Elettiyil, Vattoli, Mavoor, Thiruvambadi, Kattangal	
+KL-58	Thalassery, Kannur District	Thalassery, Anjarakandy, Koothuparamba, Gopalpet, Chokli, Pinarayi, Pathirayad, Sivapuram	
+KL-59	Taliparamba, Kannur District	Taliparamba, Sreekandapuram, Alakkode, Karthikapuram, Payyavoor, Irikkur, Chemperi, Mayyil	
+KL-60	Kanhangad, Kasargod District	Hosdurg, Balla, Nileshwaram, Trikkarippur, Cheruvathur	
+KL-61	Sasthamkotta, Kollam District	Sasthamkotta, Bharanikkavu, Kallada, Anayadi	
+KL-62	Ranni, Pathanamthitta District	Ranni Perinad, Kuravamoozhi, Mandamaruthi	
+KL-63	Angamaly, Ernakulam District	Angamaly, Karukutti, Tirumoozhikulam, Malayathur, Kodannad, Yordhanapuram	
+KL-64	Chalakkudy, Thrissur District	Chalakkudy, Athirapalli, Malakkapara, Poringu, Potta, Kodakara	
+KL-65	Tirurangadi, Malappuram District	Tirurangadi, Thenhipalam, Parappanangadi, Kottakkal, Edarikode, Parappur, Othukkungal, Oorakam, Vengara, Kannamangalam, Peruvalloore, AR Nagar, Perumanna Klari, Thennala, Nannambra, Moonniyur, Vallikkunnu	Covers Entire Tirurangadi Taluk & parts of Tirur Taluk	
+KL-66	Kuttanad, Alappuzha District	Champakulam . Kainakari, Ramankari, Champakulam, Nedumudi, Thakazhi, Edatuva, Thalavadi, Mancompu	
+KL-67	Uzhavoor, Kottayam District	Uzhavur, Ramapuram, Njeezhoor, Kuravilangad, Monipalli, Aandoor, Kuruppanthara	
+KL-68	Devikulam, Idukki District	Devikulam, Munnar, Marayur, Chinnar, Boddimettu, Mattupetti, Vatavada, Kanthaloor, Chinnakanal	
+KL-69	Udumbanchola, Wayanad District	Udumbancholla, Nedumkandam, Rajakumari, Rajakkad, Bisson valley, Chithirapuram, Vellathooval	
+KL-70	Chittur, Palakkad District	Chittur, Thathamangalam, Meenakshipuram, Gopalapuram, Govindapuram, Kollengode, Koduvayur, Pudunagaram, Nenmara, Neliyampathy	
+KL-71	Nilambur, Malappuram District	Nilambur, Wandoor, Chaliyar, Vazhikkadavu, Edakakra, Pothukkallu, Chungathara, Mothedam, Amarambalam, Karulai, Thiruvali, Mampad, Porur, Kalikavu, Chokkad, Karuvarakundu, Thuvvoor	
+KL-72	Mananthavady, Wayanad District	Manathawadi, Ambalavayal, Kottiyur, Tirunelli, Tholpetti, Bramhagiri	
+KL-73	Sulthan Bathery, Wayanad District	Sulthan Bathery, Muthanga, Meenangadi	
+KL-74	Kattakada, Thiruvananthapuram District	Kattakada, Malayankeezh, Vilappil, Otasekharamangalam, Amboori, Vellarda, Vilvoorkal	
+KL-75	Thriprayar, Thrissur District	Thriprayyar, Vadannapalli, Valappad, Nattikka	
+KL-76	Nanmanda, Kozhikode District	Balusseri, Atholli, Chelannur, Kakkodi, Kuruvattur	
+KL-77	Perambra, Kozhikode District	Perambra, Kuttiyadi	
+KL-78	Iritty, Kannur District	Iritty, Aralam, Mattannur, Peravoor, Kottiyoor, Kelakam	
+KL-79	Vellarikundu, Kasargod District	Vellarikundu, Chittarikkal, Rajapuram, Ranipuram, Bandadukka	
+KL-80	Pathanapuram, Kollam District	Pathanapuram, Manchaloor, Pattazhi, Pakalkuri, Avaneeswaram	
+KL-81	Varkala, Thiruvananthapuram District	Varkala, Sivagiri, Anchuthengu, Edavai	
+KL-82	Chadayamangalam, Kollam District	Aayur, Jetayupara, Kadakkal, Nilammel, Vamanapuram,	
+KL-83	Konni, Pathanamthitta District	Konni, Koodal-Rajagiri, Gavi	
+KL-84	Kondotty, Malappuram District	Karippur, Kondotty, Pallikkal, Chelembra, Kuzhimanna, Cherukavu, Muthuvallore, Vazhayur, Vazhakkad, Pulikkal, Chekkode, Morayur, Keezhuparmab, Areekode, Orgnatteeri	Covers Entire Kondotty Taluk Full & parts of Ernad Taluk
+KL-85	Ramanattukara-Feroke, Kozhikode District	Feroke, Ramanattukara, Kadalundi Beypore, Nallalam, Olavanna, Perumanna	
+KL-86	Payyannur, Kannur District	Payyannur, Ramanthali, Cherupuzha, Peringome, Kankole, Kadannappally-Panapuzha, Eramam-Kuttoor, Karivellur	
+KL-90	Thiruvananthapuram	Used exclusively for Government Vehicle's (KL-90A: Kerala Government, KL-90B: Central Government, KL-90C: Local body and KL-90D: Public sector)	
+KL-99	Thiruvananthapuram	Used exclusively for State Transport Authority vehicles	Limited in circulation
+LA—Ladakh
+Code	Office location	Jurisdiction	Annotations
+LA-01	Kargil	Kargil District	Previously JK-07
+LA-02	Leh	Leh District	Previously JK-10
+LD—Lakshadweep
+Code	Office location	Jurisdiction area	Annotations
+LD-01	Kavaratti	Kavaratti	
+LD-02	Agatti	Agatti	
+LD-03	Amini	Amini	
+LD-04	Androth	Androth	
+LD-05	Kadmat	Kadmat	
+LD-06	Kiltan	Kiltan	
+LD-07	Kalpeni	Kalpeni	
+LD-08	Kalpeni	Kalpeni	
+LD-09	Minicoy	Minicoy	
+MH—Maharashtra
+Code	Location	Office location	Jurisdiction area	Annotations
+MH-01	Mumbai South	Location: Tardeo, Mumbai City District	Jurisdiction: Nariman Point, Colaba to Mahim, Sion, Wadala (parts) in Mumbai City District and Elephanta (Raigad Distt.)	BEST buses (MCGM Owned), MCGM, Government vehicles serving Mumbai jurisdiction are also registered here.
+MH-02	Mumbai West	Location: Versova Road, Andheri (W), Mumbai Suburban District	Jurisdiction: Bandra to Jogeshwari in Mumbai Suburban District (also included Goregaon to Dahisar until 2015)	
+MH-03	Mumbai East	Location: Wadala Truck Terminal, Mumbai City District	Jurisdiction: Kurla to Mulund, Mankhurd in Mumbai Suburban District	
+MH-04	Thane	Location: near Central Jail, Thane	Jurisdiction: Talukas of Thane (Thane, Mira-Bhayandar), Bhiwandi and Shahapur (Also covered Palghar district until 2014)	
+MH-05	Kalyan, Thane District	Location: Sahyadri Nagar, Kalyan West	Jurisdiction: Talukas of Kalyan (Kalyan-Dombivli), Murbad, Ulhasnagar (Town and Taluka), Ambernath (Town and Taluka, including Badlapur Town)	
+MH-06	Raigad	Location: Utkarsh Nagar, Pen (Town and Taluka)	Jurisdiction: Taluks of Pen, Alibag, Roha, Murud, Shrivardhan, Mangaon, Mhasala, Poladpur, Tala, Mahad, Sudhagad	
+MH-07	Sindhudurg	Location: Oros Town, Kudal Taluka	Jurisdiction: Entire Sindhudurg District	
+MH-08	Ratnagiri	Location: Kuwarbav, Ratnigiri	Jurisdiction: Entire Ratnagiri District	
+MH-09	Kolhapur	Location: Tarabai Park, Kolhapur	Jurisdiction: Kolhapur City and Talukas of Karvir, Panhala, Shahuwadi, Bavda, Radhanagari, Bhudargad, Ajra, Chandgad, Kagal and Gadhinglaj	
+MH-10	Sangli	Location: Madhav Nagar Road, Sangli City	Jurisdiction: Entire Sangli District	
+MH-11	Satara	Location: Camp, Satara	Jurisdiction: Talukas of Satara, Jaoli, Mahabaleshwar, Wai, Khandala, Koregaon and Khatav	
+MH-12	Pune	Location: Sangam Bridge, Raja Bahadur Mills Road, Pune	Jurisdiction: Pune City and Talukas of Haveli, Bhor, Velha, Indapur, Purandar, Shirur	
+MH-13	Solapur	Location: Vijapur Road, Solapur	Jurisdiction: Talukas of Solapur North, Solapur South, Mangalvedha, Barshi, Mohol, Pandharpur, Akkalkot	
+MH-14	Pimpri-Chinchwad, Pune district	Location: Sector 6, Pradhikaran, Nigdi, Pimpri-Chinchwad	Jurisdiction: Pimpri-Chinchwad Municipal Corporation and Hinjawadi (parts of Mulshi Taluka), Talukas of Junnar, Khed, Maval, Ambegaon	
+MH-15	Nashik	Location: Panchavati, Nashik	Jurisdiction: Talukas of Nashik, Dindori, Trimbakeshwar, Surgana, Yevla, Chandvad, Niphad, Sinnar, Peth, Igatpuri	
+MH-16	Ahmadnagar	Location: Wambori Road, Ahmadnagar	Jurisdiction: Talukas of Nagar, Jamkhed, Shrigonda, Pathardi, Parnet, Karjat, Shevgaon	
+MH-17	Shrirampur, Ahmadnagar District	Location: Nevasa Road, Shrirampur	Jurisdiction: Talukas of Shrirampur, Nevasa, Rahuri, Rahta, Kopargaon, Sangamner, Akole	
+MH-18	Dhule	Location: Mumbai Agra Road, Dhule	Jurisdiction: Entire Dhule District	
+MH-19	Jalgaon	Location: Adarsh Nagar, Jalgaon	Jurisdiction: Talukas of Jalgaon, Bhusawal, Jamner, Yaval, Bodwad, Muktainagar and Raver	
+MH-20	Aurangabad	Location: Railway Station Road, Aurangabad	Jurisdiction: Entire Aurangabad District	
+MH-21	Jalna	Location: Nagewadi, Jalna	Jurisdiction: Entire Jalna District	
+MH-22	Parbhani	Location: Manvat Road, Parbhani	Jurisdiction: Entire Parbhani District	
+MH-23	Beed	Location: Jalna Road, Beed	Jurisdiction: Talukas of Beed, Ashti, Gevrai, Patoda, Shirur Kasar	
+MH-24	Latur	Location: Babhalgaon Road, Latur	Jurisdiction: Talukas of Latur, Ausa, Nilanga, Renapur and Chakur	
+MH-25	Osmanabad	Location: MIDC, Osmanabad	Jurisdiction: Entire Osmanabad District	
+MH-26	Nanded	Location: CIDCO, Nanded	Jurisdiction: Entire Nanded District	
+MH-27	Amravati	Location: Collectorate Camp, Amaravati	Jurisdiction: Entire Amaravati District	
+MH-28	Buldhana	Location: Malkapur Road, Buldhana	Jurisdiction: Tehsil including Buldhana, Motala, Chikhali, Mehkar, Lonar, Sindkhed Raja and Deulgaon Raja	
+MH-29	Yavatmal	Location: Nagpur Road, Yavatmal	Jurisdiction: Entire Yavatmal District	
+MH-30	Akola	Location: Murtijapur Road, Akola	Jurisdiction: Entire Akola District	
+MH-31	Nagpur West	Location: opposite Giripeth Post Office, Nagpur	Jurisdiction: Western Suburbs of Nagpur City	
+MH-32	Wardha	Location: Sevagram Road, Wardha	Jurisdiction: Entire Wardha District	
+MH-33	Gadchiroli	Location: near Collector Office, Gadchiroli	Jurisdiction: Entire Gadchiroli District	
+MH-34	Chandrapur	Location: Jal Nagar Ward, Chandrapur	Jurisdiction: Entire Chandrapur District	
+MH-35	Gondia	Location: Fulchurtola, Gondia	Jurisdiction: Entire Gondia District	
+MH-36	Bhandara	Location: National Highway 6, Bhandara	Jurisdiction: Entire Bhandara District	
+MH-37	Washim	Location: Lakhala, Washim	Jurisdiction: Entire Washim District	
+MH-38	Hingoli	Location: Limbala Matka, Hingoli	Jurisdiction: Entire Hingoli District	
+MH-39	Nandurbar	Location: Sakri Road, Nandurbar	Jurisdiction: Entire Nandurbar District	
+MH-40	Nagpur Rural	Location: Indora, Nagpur	Jurisdiction: Entire Nagpur District except Nagpur Urban Taluka	
+MH-41	Malegaon, Nashik District	Location: Camp, Malegaon	Jurisdiction: Talukas of Malegaon, Satana, Kalwan, Deola, Nandgaon	
+MH-42	Baramati, Pune District	Location: Bhigwan Road, Baramati	Jurisdiction: Talukas of Baramati, Indapur, Daund	
+MH-43	Navi Mumbai, Thane District	Location: Vashi Sector 19B, Navi Mumbai	Jurisdiction: Airoli to CBD Belapur and surrounding areas in Thane Taluka	
+MH-44	Ambajogai, Beed District	Location: Morewadi, Ambajogai	Jurisdiction: Talukas of Ambajogai, Kaij, Vadvani, Majalgaon, Parli, Dharur	
+MH-45	Akluj, Solapur District	Location: Anand Nagar, Akluj, Malshiras Taluka	Jurisdiction: Talukas of Malshiras, Madha, Sangola, Karmala	
+MH-46	Panvel, Raigad District	Location: Kalamboli, Panvel	Jurisdiction: Kharghar to Panvel suburbs in Navi Mumbai, Talukas of Panvel, Uran, Khalapur, Karjat	
+MH-47	Mumbai North	Location: Dahisar West, Mumbai Suburban District	Jurisdiction: Goregaon to Dahisar in Mumbai Suburban District	
+MH-48	Palghar	Location: Bhatpara, Virar East	Jurisdiction: Vasai-Virar City Limits and whole of Palghar District	
+MH-49	Nagpur East	Location: Chikhali Layout, Nagpur	Jurisdiction: Eastern Suburbs of Nagpur City	
+MH-50	Karad, Satara District	Location: Supane, Karad Town	Jurisdiction: Karad and Patan Talukas	
+MH-51	Ichalkaranji, Kolhapur District	Location: Vikash Nagar, Ichalkaranji	Jurisdiction: Ichalkaranji Town and Talukas of Hatkanangle and Shirol	
+MH-52	Chalisgaon, Jalgaon District	Location: Shastri Nagar, Bhadgaon Road, Chalisgaon	Jurisdiction: Chalisgaon Taluka	
+MH-53	Phaltan, Satara District	Location: Sanmati Nagar, Shinganpur Road, Shivaji Nagar, Phaltan	Jurisdiction: Talukas of Phaltan and Man	
+MH-54	Bhadgaon, Jalgaon District	Location: Mauje Tongaon, Bhadgaon - Pachora Marg, Opp. Ashirwad Jining, Bhadgaon, Jalgaon	Jurisdiction: Talukas of Bhadgaon, Pachora, Parola, Amalner, Chopada, Erandol, Dharangaon	
+MH-55	Udgir, Latur District	Location: Venkatesh Nagar, Ramchandra Nagar, Udgir	Jurisdiction: Talukas of Udgir, Deoni, Jalkot, Shirur Anantpal and Ahmadpur	
+MH-56	Khamgaon, Buldhana District	Location: Near JV Mehta New Era High School, Khamgaon	Jurisdiction: Talukas of Khamgaon, Nandura, Shegaon, Malkapur, Jalgaon Jamod and Sangrampur	Yet to appear on Vahan Website	
+MH-57	Vaijapur, Aurangabad District	Location:	Jurisdiction:	Yet to appear on Vahan Website
+MH-58	Mira-Bhayander, Thane District	Location:	Jurisdiction:	Yet to appear on Vahan Website
+ML—Meghalaya
+Code	Office location	Jurisdiction area	Annotations
+ML-01	Meghalaya Government vehicles	N/A	
+ML-02	Meghalaya Police vehicles	N/A	
+ML-04	Jowai	Jaintia Hills	
+ML-05	Shillong	Shillong	
+ML-06	Nongstoin	West Khasi Hills	
+ML-07	William Nagar	East Garo Hills	
+ML-08	Tura	West Garo Hills	
+ML-09	Baghmara	South Garo Hills	
+ML-10	Nongpoh	Ri-Bhoi	
+MN—Manipur
+Code	Office location	Jurisdiction area	Annotations
+MN-01	Imphal West	Imphal West	
+MN-02	Churachandpur	Churachandpur	
+MN-03	Kangpokpi	Kangpokpi	
+MN-04	Thoubal	Thoubal	
+MN-05	Bishnupur	Bishnupur	
+MN-06	Imphal East	Imphal East	
+MN-07	Ukhrul	Ukhrul	
+MP—Madhya Pradesh
+Code	Office location	Jurisdiction area	Annotations
+MP-01	Bhopal	entire Madhya Pradesh	vehicles of the Governor of Madhya Pradesh
+MP-02	Bhopal	entire Madhya Pradesh	MP Government vehicles
+MP-03	Bhopal	entire Madhya Pradesh	MP Police vehicles
+MP-04	Bhopal	Bhopal	
+MP-05	Hoshangabad	Hoshangabad	
+MP-06	Morena	Morena	
+MP-07	Gwalior	Gwalior	
+MP-08	Guna	Guna	
+MP-09	Indore	Indore	
+MP-10	Khargone	Khargone	
+MP-11	Dhar	Dhar	
+MP-12	Khandwa	Khandwa	
+MP-13	Ujjain	Ujjain	
+MP-14	Mandsaur	Mandsaur	
+MP-15	Sagar	Sagar	
+MP-16	Chhatarpur	Chhatarpur	
+MP-17	Rewa	Rewa	
+MP-18	Shahdol	Shahdol	
+MP-19	Satna	Satna	
+MP-20	Jabalpur	Jabalpur	
+MP-21	Katni	Katni	
+MP-22	Seoni	Seoni	
+MP-28	Chhindwara	Chhindwara	
+MP-30	Bhind	Bhind	
+MP-31	Sheopur	Sheopur	
+MP-32	Datia	Datia	
+MP-33	Shivpuri	Shivpuri	
+MP-34	Damoh	Damoh	
+MP-35	Panna	Panna	
+MP-36	Tikamgarh	Tikamgarh	
+MP-37	Sehore	Sehore	
+MP-38	Raisen	Raisen	
+MP-39	Rajgarh	Rajgarh	
+MP-40	Vidisha	Vidisha	
+MP-41	Dewas	Dewas	
+MP-42	Shajapur	Shajapur	
+MP-43	Ratlam	Ratlam	
+MP-44	Neemuch	Neemuch	
+MP-45	Jhabua	Jhabua	
+MP-46	Barwani	Barwani	
+MP-47	Harda	Harda	
+MP-48	Betul	Betul	
+MP-49	Narsinghpur	Narsinghpur	
+MP-50	Balaghat	Balaghat	
+MP-51	Mandla	Mandla	
+MP-52	Dindori	Dindori	
+MP-53	Sidhi	Sidhi	
+MP-54	Umaria	Umaria	
+MP-65	Anuppur	Anuppur	
+MP-66	Singrauli	Waidhan	
+MP-67	Ashoknagar	Ashoknagar	
+MP-68	Burhanpur	Burhanpur	
+MP-69	Alirajpur	Alirajpur	
+MP-70	Agar	Agar Malwa	
+MP-71	Niwari	Niwari	
+MZ—Mizoram
+Code	Office location	Jurisdiction area	Annotations
+MZ-01	Aizawl		
+MZ-02	Lunglei		
+MZ-03	Saiha		
+MZ-04	Champhai		
+MZ-05	Kolasib		
+MZ-06	Serchhip		
+MZ-07	Lawngtlai		
+MZ-08	Mamit		
+NL—Nagaland
+Code	Office location	Jurisdiction area	Annotations
+NL-01	Kohima	Kohima District	
+NL-02	Mokokchung District	Mokokchung District	
+NL-03	Tuensang District	Tuensang District	
+NL-04	Mon District	Mon District	
+NL-05	Wokha District	Wokha District	
+NL-06	Zünheboto District	Zünheboto District	
+NL-07	Chümoukedima District
+Dimapur District
+Niuland District	Chümoukedima District
+Dimapur District
+Niuland District	
+NL-08	Phek District	Phek District	
+NL-09	entire Nagaland	entire Nagaland	Government of Nagaland vehicles (Non-Transport)
+NL-10	entire Nagaland	entire Nagaland	Government of Nagaland vehicles (Transport)
+OD—Odisha
+Due to the official respelling of the state name in English (from "Orissa" to "Odisha"),[3] the Transport Department modified the state letter on the plates with OD substituting OR on 1 September 2012.[4]
+
+Code	Office location	Jurisdiction area	Annotations
+OD-01	Balasore	Balasore district	
+OD-02	Bhubaneswar South	Khurda district	
+OD-03	Bolangir	Bolangir district	
+OD-04	Chandikhol	Jajpur district	
+OD-05	Cuttack	Cuttack district	
+OD-06	Dhenkanal	Dhenkanal district	
+OD-07	Brahmapur	Ganjam district	
+OD-08	Bhawanipatna	Kalahandi ditstrict	
+OD-09	Keonjhar	Keonjhar district	
+OD-10	Koraput	Koraput district	
+OD-11	Baripada	Mayurbhanj district	
+OD-12	Phulbani	Khandhamal district	
+OD-13	Puri	Puri district	
+OD-14	Rourkela	Sundargarh district	
+OD-15	Sambalpur	Sambalpur district	
+OD-16	Sundargarh	Sundargarh district	
+OD-17	Bargarh	Bargarh district	
+OD-18	Rayagada	Rayagada district	
+OD-19	Angul	Angul district	
+OD-20	Paralakhemundi	Gajapati district	
+OD-21	Jagatsinghpur	Jagatsinghpur district	
+OD-22	Bhadrak	Bhadrak district	
+OD-23	Jharsuguda	Jharsuguda district	
+OD-24	Nabarangpur	Nabarangpur district	
+OD-25	Nayagarh	Nayagarh district	
+OD-26	Nuapada	Nuapada district	
+OD-27	Boudh	Boudh district	
+OD-28	Debagarh	Debagarh district	
+OD-29	Kendrapara	Kendrapara district	
+OD-30	Malkangiri	Malkangiri district	
+OD-31	Subarnapur	Subarnapur district	
+OD-32	Bhanjanagar	Ganjam district	
+OD-33	Bhubaneswar North		
+OD-34	Jajpur	Jajpur district	
+OD-35	Talcher	Angul district	
+PB—Punjab
+Code	Office location	Jurisdiction area	Annotations
+PB-01	Rented cars, self drive cars in Chandigarh & taxi vehicles from Punjab		
+PB-02	Amritsar (1)		
+PB-03	Bathinda		
+PB-04	Faridkot		
+PB-05	Ferozpur		
+PB-06	Gurdaspur		
+PB-07	Hoshiarpur		
+PB-08	Jalandhar (1)		
+PB-09	Kapurthala		
+PB-10	Ludhiana (West)		
+PB-11	Patiala		
+PB-12	Rupnagar		
+PB-13	Sangrur		
+PB-14	Ajnala		
+PB-15	Abohar		
+PB-16	Anandpur Sahib		
+PB-17	Baba Bakala		
+PB-18	Batala		
+PB-19	Barnala		
+PB-20	Balachaur		
+PB-21	Dasuya		
+PB-22	Fazilka		
+PB-23	Fatehgarh Sahib		
+PB-24	Garhshankar		
+PB-25	Jagraon		
+PB-26	Khanna		
+PB-27	Kharar		
+PB-28	Malerkotla		
+PB-29	Moga		
+PB-30	Muktsar		
+PB-31	Mansa		
+PB-32	Nawanshahar		
+PB-33	Nakodar		
+PB-34	Nabha		
+PB-35	Pathankot		
+PB-36	Phagwara		
+PB-37	Phillaur		
+PB-38	Patti		
+PB-39	Rajpura		
+PB-40	Rampura Phul		
+PB-41	Sultanpur Lodhi		
+PB-42	Samana		
+PB-43	Samrala		
+PB-44	Sunam		
+PB-45	Talwandi Sabo		
+PB-46	Tarn Taran		
+PB-47	Zira		
+PB-48	Amloh		
+PB-49	Khamanon		
+PB-50	Budhlada		
+PB-51	Sardulgarh		
+PB-52	Bassi Pathana		
+PB-53	Malout		
+PB-54	Mukerian		
+PB-55	Payal		
+PB-56	Raikot		
+PB-57	Bhulath		
+PB-58	Dera Baba Nanak		
+PB-59	Dhuri		
+PB-60	Gidderbaha		
+PB-61	Jalalabad		
+PB-62	Jaitu		
+PB-63	Khadoor Sahib		
+PB-64	Moonak		
+PB-65	Mohali		
+PB-66	Nihal Singh Wala		
+PB-67	Shahkot		
+PB-68	Dhar Kalan		
+PB-69	Bagha Purana		
+PB-70	Dera Bassi		
+PB-71	Chamkaur Sahib		
+PB-72	Pattran		
+PB-73	Tappa Mandi		
+PB-74	Nangal		
+PB-75	Lehragaga		
+PB-76	Dharamkot		
+PB-77	Guru Har Sahai		
+PB-78	Banga		
+PB-79	Kotkapura		
+PB-80	Maur		
+PB-81	Majitha		
+PB-82	Ahmedgarh		
+PB-83	Dudhan Sadhan		
+PB-84	Bhawanigarh		
+PB-85	Kalanaur		
+PB-86	Dirba		
+PB-87	Morinda		
+PB-88	Bhikhiwind		
+PB-89	Amritsar (2)		
+PB-90	Jalandhar (2)		
+PB-91	Ludhiana (East)		
+PB-92	Amargarh		
+PB-93	Lopoke		
+PB-99	Dinanagar		
+PY—Puducherry
+Code	Office location	Jurisdiction area	Annotations
+PY-01	Puducherry		
+PY-02	Karaikal		
+PY-03	Mahe		
+PY-04	Yanam		
+PY-05	Oulgaret		
+RJ—Rajasthan
+
+Districts of Rajasthan with RTO codes
+Code	Office location	Jurisdiction area	Annotations
+RJ-01	Ajmer		
+RJ-02	Alwar		
+RJ-03	Banswara		
+RJ-04	Barmer		
+RJ-05	Bharatpur		
+RJ-06	Bhilwara		
+RJ-07	Bikaner		
+RJ-08	Bundi		
+RJ-09	Chittaurgarh		
+RJ-10	Churu		
+RJ-11	Dholpur		
+RJ-12	Dungarpur		
+RJ-13	Sri Ganganagar		
+RJ-14	Jaipur South		
+RJ-15	Jaisalmer		
+RJ-16	Jalore		
+RJ-17	Jhalawar		
+RJ-18	Jhunjhunu		
+RJ-19	Jodhpur		
+RJ-20	Kota		
+RJ-21	Nagaur		
+RJ-22	Pali		
+RJ-23	Sikar		
+RJ-24	Sirohi		
+RJ-25	Sawai Madhopur		
+RJ-26	Tonk		
+RJ-27	Udaipur		
+RJ-28	Baran		
+RJ-29	Dausa		
+RJ-30	Rajsamand		
+RJ-31	Hanumangarh		
+RJ-32	Kotputli (Kotputli-Behror)		
+RJ-33	Ramganj Mandi (Kota)		
+RJ-34	Karauli		
+RJ-35	Pratapgarh		
+RJ-36	Beawar (Ajmer)		
+RJ-37	Didwana (Nagaur)		
+RJ-38	Abu Road (Sirohi)		
+RJ-39	Balotra (Barmer)		
+RJ-40	Bhiwadi (Alwar)		
+RJ-41	Chomu (Jaipur)		
+RJ-42	Kishangarh (Ajmer)		
+RJ-43	Phalodi (Jodhpur)		
+RJ-44	Sujangarh (Churu)		
+RJ-45	Jaipur North		
+RJ-46	Bhinmal (Jalore)		
+RJ-47	Dudu (Jaipur)		
+RJ-48	Kekri (Ajmer)		
+RJ-49	Nohar (Hanumangarh)		
+RJ-50	Nokha (Bikaner)		
+RJ-51	Shahpura (Bhilwara)		
+RJ-52	Shahpura (Jaipur)		
+RJ-53	Khetri (Jhunjhunu)		
+RJ-54	Piparcity (Jodhpur)		
+RJ-55	Pokhran (Jaisalamer)		
+RJ-56	Sadulshahar (Shri ganganagar)		
+RJ-57	Sumerpur (Pali)		
+RJ-58	Salumbar		
+SK—Sikkim
+Code	Office location	Jurisdiction area	Annotations
+SK-01	Gangtok	Gangtok	
+SK-02	Gyalshing	Gyalshing district	
+SK-03	Mangan	Mangan	
+SK-04	Jorethang	Namchi district	
+SK-05	Namchi	Namchi district	
+SK-06	Soreng	Soreng district	
+SK-07	Pakyong	Pakyong district	
+SK-08	Singtam		
+TG—Telangana
+
+Telangana RTO codes before the reorganization of districts
+Code	Office location	Jurisdiction area	Annotations
+TG-01	Adilabad	Adilabad district	
+TG-02	Karimnagar	Karimnagar district	Sub-agencies: Huzurabad (MVI)
+TG-03	Warangal	Hanamkonda district	
+TG-04	Khammam	Khammam district	Sub-agencies: Sathupalli (AMVI), Wyra (MVI)
+TG-05	Nalgonda	Nalgonda district	Sub-agencies: Miryalaguda (MVI)
+TG-06	Mahbubnagar	Mahbubnagar district	
+TG-07	Attapur (Hyderabad)*	Ranga Reddy	Sub-agencies: Ibrahimpatnam (RTO), Shadnagar (MVI)
+TG-08	Medchal (Hyderabad)*	Medchal-Malkajgiri District	Sub-agencies: Uppal Kalan (Hyderabad)* (RTO), Kukatpally (Hyderabad)* (MVI)
+TG-09	Khairtabad (Hyderabad)	Hyderabad Central	
+TG-10	Secunderabad (Hyderabad)	Hyderabad North	
+TG-11	Malakpet (Hyderabad)	Hyderabad East	
+TG-12	Kishanbagh (Hyderabad)	Hyderabad South	
+TG-13	Tolichowki (Hyderabad)	Hyderabad West
+TG-14	Hyderabad	Reserved for Hyderabad	
+TG-15	Sangareddy	Sangareddy district	Sub-agencies: Patancheru (Hyderabad)* (MVI), Zaheerabad (MVI)
+TG-16	Nizamabad	Nizamabad district	Sub-agencies: Armoor (MVI), Bodhan (MVI)
+TG-17	Kamareddy	Kamareddy district	
+TG-18	Nirmal	Nirmal district	
+TG-19	Mancherial	Mancherial district	
+TG-20	Asifabad	Komaram Bheem district	
+TG-21	Jagtial	Jagtial district	Sub-agencies: Koratla (MVI)
+TG-22	Peddapalli	Peddapalli district	Sub-agencies: Ramagundam (MVI)
+TG-23	Sircilla	Sircilla district	
+TG-24	Warangal	Warangal district	
+TG-25	Bhupalpalle	Jayashankar Bhupalpally district	
+TG-26	Mahabubabad	Mahabubabad district	
+TG-27	Jangaon	Jangaon district
+TG-28	Kothagudem	Bhadradri Kothagudem district	Sub-agencies: Bhadrachalam (MVI)
+TG-29	Suryapet	Suryapet district	Sub-agencies: Kodad (MVI)
+TG-30	Bhuvanagiri	Yadadri Bhuvanagiri district	Hyderabad Border District
+TG-31	Nagarkurnool	Nagarkurnool district	Sub-agencies: Kalwakurthy (MVI)
+TG-32	Wanaparthy	Wanaparthy district	Sub-agencies: Pebbair (MVI)
+TG-33	Gadwal	Jogulamba Gadwal district	
+TG-34	Vikarabad	Vikarabad district	Sub-agencies: Parigi (MVI)
+TG-35	Medak	Medak district	
+TG-36	Siddipet	Siddipet district	
+TG-37	Mulugu	Mulugu district	
+TG-38	Narayanpet	Narayanpet district	
+Note * Part of GHMC Hyderabad but not part of Hyderabad Dist.
+
+
+The two-letter state code for Telangana Region in Andhra Pradesh was AP until the State Bifurcation and after the formation of Telangana State, the state was chosen as TS. It continued up to May 2024 before it was changed to TG.[5] The AP and TS codes, however, remain valid.
+
+Specifics in the Telangana series
+Scheme and/or example	Meaning
+TG XX A 1234 to TG XX SZ 1234	The letters A to S are reserved for passenger vehicles.
+TG-09-Px : TG 09 PA 1234, TG 09 PB 1234	TG-09-P of Hyderabad Central RTO is specifically used for Telangana Police vehicles.
+TG XX T 1234 to TG XX YZ 1234	The letters T, U, V, W, X, Y are reserved for commercial vehicles.
+TG-xx-Z : TG XX Z 1234 to TG XX ZZ 1234	The letter Z is reserved for the State Road Transport (TGSRTC) buses..
+
+
+Older Registrations of Telangana till 2014 (Before Bifurcation from Andhra Pradesh)
+Code	Jurisdiction
+AP 01	Adilabad District
+AP 09	Hyderabad Central (Khairatabad)
+AP 10	Hyderabad North (Secunderabad)
+AP 11	Hyderabad East (Malakpet)
+AP 12	Hyderabad South (Kishanbagh)
+AP 13	Hyderabad West (Mehdipatnam)
+AP 15	Karimnagar District
+AP 20	Khammam District
+AP 22	Mahabubnagar District
+AP 23	Medak District
+AP 24	Nalgonda District
+AP 25	Nizamabad District
+AP 28	Rangareddy District (Attapur, Hyderabad)*
+AP 29	Rangareddy District (Uppal, Hyderabad)*
+AP 36	Warangal District
+TN—Tamil Nadu
+In Tamil Nadu, specific series are exclusively used for certain type of vehicles
+
+All State Transport Corporation vehicles start the series with 'N' or 'AN'
+All Government owned vehicles start the series with 'G', 'AG', 'BG', 'CG' or 'DG', Etc., (all Combination of G)
+No RTO is assigned with number that would add up to '8'. There is no 08,17,26,35,44,53,62,71.80.
+
+Code	Location	District	Zone	Annotations
+TN-01	Chennai (Central): Ayanavaram	Chennai	Chennai North	SETC & MTC busses are registered here under TN 01 N XXXX.
+TN-02	Chennai (North West): Anna Nagar	Chennai	Chennai North	
+TN-03	Chennai (North East): Tondiarpet	Chennai	Chennai North	
+TN-04	Chennai (East): Royapuram	Chennai	Chennai North	
+TN-05	Chennai (North): Kolathur	Chennai	Chennai North	
+TN-06	Chennai (South East): Mandavelli	Chennai	Chennai South	
+TN-07	Chennai (South): Adyar	Chennai	Chennai South	
+TN-09	Chennai (West): K. K. Nagar	Chennai	Chennai South	
+TN-10	Chennai (South West): Virugambakkam	Chennai	Chennai South	
+TN-11	Tambaram	Chengalpattu	Chennai South	
+TN-12	Poonamallee	Tiruvallur	Chennai North	
+TN-13	Ambattur	Tiruvallur	Chennai North	
+TN-14	Sholinganallur	Chengalpattu	Chennai South	
+TN-15	Ulundurpet	Kallakurichi	Villupuram	
+TN-15M	Kallakurichi	Kallakurichi	Villupuram	Shared series with Ulunderpettai
+TN-16	Tindivanam	Villupuram	Villupuram	
+TN-16Z	Gingee	Villupuram	Villupuram	Unit office of the RTO
+TN-18	Red Hills	Tiruvallur	Chennai North	
+TN-18Y	Gummidipoondi	Tiruvallur	Chennai North	Unit office of the RTO
+TN-19	Chengalpattu	Chengalpattu	Chennai South	
+TN-19Y	Thirukazhugundram	Chengalpattu	Chennai South	Unit office of the RTO
+TN-19Z	Madurantakam	Chengalpattu	Chennai South	Unit office of the RTO
+TN-20	Tiruvallur	Tiruvallur	Chennai North	TNSTC-Villupuram / Thiruvallur Region busses are registered here under TN 20 N XXXX.
+TN-20X	Thiruthani	Tiruvallur	Chennai North	Unit office of the RTO
+TN-21	Kanchipuram	Kanchipuram	Chennai South	TNSTC-Villupuram / Kanchipuram Region busses are registered here under TN 21 N XXXX.
+TN-22	Meenambakkam	Chennai	Chennai South	
+TN-23	Vellore	Vellore	Vellore	TNSTC-Villupuram / Vellore Region busses are registered here under TN 23 N XXXX.
+TN-23T	Gudiyatham	Vellore	Vellore	Unit office of the RTO
+TN-24	Krishnagiri	Krishnagiri	Vellore	
+TN-25	Thiruvannamalai	Thiruvannamalai	Villupuram	TNSTC-Villupuram / Thiruvannamalai Region busses are registered here under TN 25 N XXXX.
+TN-27	Salem	Salem		Not in use
+TN-28	Namakkal (North)	Namakkal	Erode	
+TN-28Z	Rasipuram	Namakkal	Erode	Unit office of the RTO
+TN-29	Dharmapuri	Dharmapuri	Salem	TNSTC-Salem / Dharmapuri Region busses are registered here under TN 29 N XXXX.
+TN-29W	Palacode	Dharmapuri	Salem	Unit office of the RTO
+TN-29Z	Harur	Dharmapuri	Salem	Unit office of the RTO
+TN-30	Salem (West)	Salem	Salem	TNSTC-Salem / Salem Region busses are registered here under TN 30 N XXXX.
+TN-30W	Omalur	Salem	Salem	Unit office of the RTO
+TN-31	Cuddalore	Cuddalore	Villupuram	TNSTC-Villupuram / Cuddalore Region busses are registered here under TN 31 N XXXX.
+TN-31Y	Neyveli	Cuddalore	Villupuram	Unit office of the RTO
+TN-31Z	Panruti	Cuddalore	Villupuram	Unit office of the RTO
+TN-32	Villupuram	Villupuram	Villupuram	TNSTC-Villupuram / Villupuram Region busses are registered here under TN 32 N XXXX.
+TN-33	Erode (East)	Erode	Erode	TNSTC-Coimbatore / Erode Region busses are registered here under TN 33 N XXXX.
+TN-34	Tiruchengode	Namakkal	Erode	
+TN-34M	Kumarapalayam	Namakkal	Erode	Shared series with Tiruchengode
+TN-36	Gobichettipalayam	Erode	Erode	
+TN-36W	Bhavani	Erode	Erode	Unit office of the RTO
+TN-36Z	Sathyamangalam	Erode	Erode	Unit office of the RTO
+TN-37	Coimbatore (South)	Coimbatore	Coimbatore	
+TN-37Z	Sulur	Coimbatore	Coimbatore	Unit office of the RTO
+TN-38	Coimbatore (North)	Coimbatore	Coimbatore	TNSTC-Coimbatore / Coimbatore Region busses are registered here under TN 38 N XXXX.
+TN-39	Tirupur (North)	Tirupur	Coimbatore	TNSTC-Coimbatore / Tirupur Region busses are registered here under TN 39 N XXXX.
+TN-39Z	Avinashi	Tirupur	Coimbatore	Unit office of the RTO
+TN-40	Mettupalayam	Coimbatore	Coimbatore	
+TN-41	Pollachi	Coimbatore	Coimbatore	
+TN-41W	Valparai	Coimbatore	Coimbatore	Unit office of the RTO
+TN-42	Tirupur (South)	Tirupur	Coimbatore	
+TN-42Y	Kangayam	Tirupur	Coimbatore	Unit office of the RTO
+TN-43	Ooty	Nilgiris	Coimbatore	TNSTC-Coimbatore / Ooty Region busses are registered here under TN 43 N XXXX.
+TN-43Z	Gudalur	Nilgiris	Coimbatore	Unit office of the RTO
+TN-45	Tiruchirapalli (West)	Tiruchirapalli	Tiruchirapalli	Tnstc-Kumbakonam / Tiruchirapalli Region busses are registered here under TN 45 N XXXX.
+TN-45Z	Manapparai	Tiruchirapalli	Tiruchirapalli	Unit office of the RTO
+TN-46	Perambalur	Perambalur	Tiruchirapalli	
+TN-47	Karur	Karur	Tiruchirapalli	
+TN-47X	Manmangalam	Karur	Tiruchirapalli	Unit office of the RTO
+TN-47Y	Aravakurichi	Karur	Tiruchirapalli	Unit office of the RTO
+TN-47Z	Kulithalai	Karur	Tiruchirapalli	Unit office of the RTO
+TN-48	Srirangam	Tiruchirapalli	Tiruchirapalli	
+TN-48X	Lalgudi	Tiruchirapalli	Tiruchirapalli	Unit office of the RTO
+TN-48Y	Musiri	Tiruchirapalli	Tiruchirapalli	Unit office of the RTO
+TN-48Z	Thuraiyur	Tiruchirapalli	Tiruchirapalli	Unit office of the RTO
+TN-49	Thanjavur	Thanjavur	Thanjavur	
+TN-49Y	Pattukottai	Thanjavur	Thanjavur	Unit office of the RTO
+TN-50	Tiruvarur	Tiruvarur	Thanjavur	
+TN-50Y	Thiruthuraipoondi	Tiruvarur	Thanjavur	Unit office of the RTO
+TN-50Z	Mannargudi	Tiruvarur	Thanjavur	Unit office of the RTO
+TN-51	Nagapattinam	Nagapattinam	Thanjavur	
+TN-52	Sankagiri	Salem	Salem	
+TN-54	Salem (East)	Salem	Salem	
+TN-55	Pudukottai	Pudukottai	Thanjavur	TNSTC-Kumbakonam / Pudukottai Region busses are registered here under TN 55 N XXXX.
+TN-55BQ	Alangudi	Pudukottai	Thanjavur	Unit office of the RTO
+TN-55Y	Iluppur	Pudukottai	Thanjavur	Unit office of the RTO
+TN-55Z	Aranthangi	Pudukottai	Thanjavur	Unit office of the RTO
+TN-56	Perundurai	Erode	Erode	
+TN-57	Dindigul	Dindigul	Madurai	TNSTC-Madurai / Dindigul region busses are registered here under TN 57 N XXXX.
+TN-57W	Natham	Dindigul	Madurai	Unit office of the RTO
+TN-57V	Vedasandur	Dindigul	Madurai	Unit office of the RTO
+TN-57W	Batlagundu	Dindigul	Madurai	Unit office of the RTO
+TN-58	Madurai (South)	Madurai	Madurai	TNSTC-Madurai / Madurai region busses are registered here under TN 58 N XXXX.
+TN-58Y	Usilampatti	Madurai	Madurai	Unit office of the RTO
+TN-58Z	Thirumangalam	Madurai	Madurai	Unit office of the RTO
+TN-59	Madurai (North)	Madurai	Madurai	
+TN-59V	Vadipatti	Madurai	Madurai	Unit office of the RTO
+TN-59Z	Melur	Madurai	Madurai	Unit office of the RTO
+TN-60	Theni	Theni	Madurai	
+TN-60Z	Uthamapalayam	Theni	Madurai	Unit office of the RTO
+TN-61	Ariyalur	Ariyalur	Tiruchirapalli	
+TN-63	Sivaganga	Sivaganga	Virudhunagar	
+TN-63Z	Karaikudi	Sivaganga	Virudhunagar	Unit office of the RTO. TNSTC-Kumbakonam / Karaikudi region busses are registered here under TN 63 N XXXX.
+TN-64	Madurai (Central)	Madurai	Madurai	
+TN-65	Ramanathapuram	Ramanathapuram	Virudhunagar	
+TN-65Z	Paramakudi	Ramanathapuram	Virudhunagar	Unit office of the RTO
+TN-66	Coimbatore (Central)	Coimbatore	Coimbatore	
+TN-67	Virudhunagar	Virudhunagar	Virudhunagar	TNSTC-Madurai / Virudhunagar Region busses are registered here under TN 67 N XXXX.
+TN-67W	Aruppukottai	Virudhunagar	Virudhunagar	Unit office of the RTO
+TN-68	Kumbakonam	Thanjavur	Thanjavur	TNSTC-Kumbakonam / Kumbakonam Region busses are registered here under TN 68 N XXXX.
+TN-69	Thoothukudi	Thoothukudi	Tirunelveli	
+TN-70	Hosur	Krishnagiri	Vellore	
+TN-72	Tirunelveli	Tirunelveli	Tirunelveli	TNSTC-Tirunelveli / Tirunelveli Region busses are registered here under TN 72 N XXXX.
+TN-72V	Valliyur	Tirunelveli	Tirunelveli	Unit office of the RTO
+TN-73	Ranipet	Ranipet	Vellore	
+TN-73Z	Arakkonam	Ranipet	Vellore	Unit office of the RTO
+TN-74	Nagercoil	Kanniyakumari	Tirunelveli	TNSTC-Tirunelveli / Nagercoil region busses are registered here under TN 74 N XXXX.
+TN-75	Marthandam	Kanniyakumari	Tirunelveli	
+TN-76	Tenkasi	Tenkasi	Tirunelveli	
+TN-76Y	Ambasamudram	Tirunelveli	Tirunelveli	Unit office of the RTO
+TN-77	Attur	Salem	Salem	
+TN-77Z	Vazhapadi	Salem	Salem	Unit office of the RTO
+TN-78	Dharapuram	Tirupur	Coimbatore	
+TN-78M	Udumalpet	Tirupur	Coimbatore	Shared series with Dharapuram
+TN-79	Sankarankovil	Tenkasi	Tirunelveli	
+TN-81	Tiruchirapalli (East)	Tiruchirapalli	Tiruchirapalli	
+TN-81Z	Thiruverumbur	Tiruchirapalli	Tiruchirapalli	Unit office of the RTO
+TN-82	Mayiladuthurai	Mayiladuthurai	Thanjavur	
+TN-82Z	Sirkazhi	Mayiladuthurai	Thanjavur	Unit office of the RTO
+TN-83	Vaniyambadi	Thirupattur	Vellore	
+TN-83M	Thirupattur	Thirupattur	Vellore	Shared series with Vaniyambadi
+TN-83Y	Ambur	Thirupattur	Vellore	Unit office of the RTO
+TN-84	Srivilliputhur	Virudhunagar	Virudhunagar	
+TN-84U	Rajapalayam	Virudhunagar	Virudhunagar	Unit office of the RTO
+TN-85	Kundrathur	Kanchipuram	Chennai South	
+TN-86	Erode (West)	Erode	Erode	
+TN-87	Sriperumbudur	Kanchipuram	Chennai South	
+TN-88	Namakkal (South)	Namakkal	Erode	
+TN-88Z	Paramathi Velur	Namakkal	Erode	Unit office of the RTO
+TN-90	Salem (South)	Salem	Salem	
+TN-91	Chidambaram	Cuddalore	Villupuram	
+TN-91Z	Virudhachalam	Cuddalore	Villupuram	Unit office of the RTO
+TN-92	Thiruchendur	Thoothukudi	Tirunelveli	
+TN-93	Mettur	Salem	Salem	
+TN-94	Palani	Dindigul	Madurai	
+TN-94Z	Oddanchatram	Dindigul	Madurai	Unit office of the RTO
+TN-95	Sivakasi	Virudhunagar	Virudhunagar	
+TN-96	Kovilpatti	Thoothukudi	Tirunelveli	
+TN-97	Arani	Tiruvannamalai	Villupuram	
+TN-97Z	Cheyyar	Tiruvannamalai	Villupuram	Unit office of the RTO
+TN-99	Coimbatore (West)	Coimbatore	Coimbatore	
+TR—Tripura
+Code	Office location	Jurisdiction area	Annotations
+TR-01	Agartala	West Tripura	
+TR-02	Kailasahar	Unakoti	
+TR-03	Udaipur	Gomati	
+TR-04	Ambassa	Dhalai	
+TR-05	Dharmanagar	North Tripura	
+TR-06	Teliamura	Khowai	
+TR-07	Bishramganj	Sipahijala	
+TR-08	Santirbazar	South Tripura	
+UK—Uttarakhand
+Code	Office location	Jurisdiction area	Annotations
+UK-01	Almora	Almora district	
+UK-02	Bageshwar	Bageshwar district	
+UK-03	Champawat	Champawat district	
+UK-04	Haldwani	Nainital district	
+UK-05	Pithoragarh	Pithoragarh district	
+UK-06	Rudrapur	Udham Singh Nagar district
+UK-07	Dehradun	Dehradun district	
+UK-08	Haridwar	Haridwar district	
+UK-09	Tehri	Tehri Garhwal district	
+UK-10	Uttarkashi	Uttarkashi district	
+UK-11	Gopeshwar	Chamoli district	
+UK-12	Pauri	Pauri Garhwal district	
+UK-13	Rudraprayag	Rudraprayag district	
+UK-14	Rishikesh	Dehradun district	
+UK-15	Kotdwar	Pauri Garhwal district	
+UK-16	Vikasnagar	Dehradun district	
+UK-17	Roorkee	Haridwar district	
+UK-18	Kashipur	Udham Singh Nagar district	
+UK-19	Ramnagar	Nainital District	
+UK-20	Ranikhet	Almora District	
+UP—Uttar Pradesh
+Code	Office location	Jurisdiction area	Annotations
+UP-1 to UP-10	Defunct	Defunct	Codes were allocated to districts which are now part of Uttarakhand.
+UP-11	Saharanpur	Saharanpur district	
+UP-12	Muzaffarnagar	Muzaffarnagar district	
+UP-13	Bulandshahr	Bulandshahr district	
+UP-14	Ghaziabad	Ghaziabad district	
+UP-15	Meerut	Meerut district	
+UP-16	Noida	Gautam Buddha Nagar	
+UP-17	Baghpat	Bagpat district	
+UP-19	Shamli	Shamli district	
+UP-20	Bijnor	Bijnor district	
+UP-21	Moradabad	Moradabad district	21G for government vehicles, 21N for commercial vehicles
+UP-22	Rampur	Rampur district	21G for government vehicles, 21T for commercial vehicles
+UP-23	Amroha	Amroha district	
+UP-24	Badaun	Badaun district	
+UP-25	Bareilly	Bareilly district	
+UP-26	Pilibhit	Pilibhit district	
+UP-27	Shahjahanpur	Shahjahanpur district	
+UP-30	Hardoi	Hardoi district	
+UP-31	Lakhimpur	Lakhimpur Kheri district	
+UP-32	Lucknow	Lucknow district	Trans Gomti Vistar Patal Lucknow
+UP-33	Raebareli	Raebareli district	
+UP-34	Sitapur	Sitapur district	
+UP-35	Unnao	Unnao district	
+UP-36	Amethi	Amethi district	
+UP-37	Hapur	Hapur district	
+UP-38	Bahjoi	Sambhal district	
+UP-40	Bahraich	Bahraich district	
+UP-41	Barabanki	Barabanki district	
+UP-42	Ayodhya	Ayodhya district	
+UP-43	Gonda	Gonda district	
+UP-44	Sultanpur	Sultanpur district	
+UP-45	Akbarpur	Ambedkar Nagar	
+UP-46	Shravasti	Shravasti district	
+UP-47	Balrampur	Balrampur district	
+UP-50	Azamgarh	Azamgarh district	
+UP-51	Basti	Basti district	
+UP-52	Deoria	Deoria district	
+UP-53	Gorakhpur	Gorakhpur district	
+UP-54	Mau	Mau district	
+UP-55	Siddharthnagar	Siddharth Nagar	
+UP-56	Maharajganj	Maharajganj district	
+UP-57	Padrauna	Kushinagar district	
+UP-58	Khalilabad	Sant Kabir Nagar	
+UP-60	Ballia	Ballia district	
+UP-61	Ghazipur	Ghazipur district	
+UP-62	Jaunpur	Jaunpur district	
+UP-63	Mirzapur	Mirzapur district	
+UP-64	Robertsganj	Sonbhadra	
+UP-65	Varanasi	Varanasi district	
+UP-66	Gyanpur	Sant Ravidas Nagar	
+UP-67	Chandauli	Chandauli district	
+UP-70	Prayagraj	Prayagraj district	
+UP-71	Fatehpur	Fatehpur district	
+UP-72	Pratapgarh	Pratapgarh district	
+UP-73	Manjhanpur	Kaushambi	
+UP-74	Kannauj	Kannauj district	
+UP-75	Etawah	Etawah district	
+UP-76	Farrukhabad	Farrukhabad district	
+UP-77	Akbarpur	Kanpur Dehat	
+UP-78	Kanpur	Kanpur Nagar	
+UP-79	Auraiya	Auraiya district	
+UP-80	Agra	Agra district	
+UP-81	Aligarh	Aligarh district	
+UP-82	Etah	Etah district	
+UP-83	Firozabad	Firozabad district	
+UP-84	Mainpuri	Mainpuri district	
+UP-85	Mathura	Mathura district	
+UP-86	Hathras	Hathras district	
+UP-87	Kasganj	Kasganj district	
+UP-90	Banda	Banda district	
+UP-91	Hamirpur	Hamirpur district	
+UP-92	Jalaun	Jalaun district	
+UP-93	Jhansi	Jhansi district	
+UP-94	Lalitpur	Lalitpur district	
+UP-95	Mahoba	Mahoba district	
+UP-96	Chitrakoot Dham	Chitrakoot district	
+WB—West Bengal
+Code	Office location	Jurisdiction area	Annotations
+WB-01	Beltala (two Wheelers)	Kolkata district	however series starting from WB-01BB is new series for both Commercial and Private vehicles under One RTO One Code initiative
+WB-02	Beltala (four Wheelers private vehicles)	Kolkata district	Discontinued, as WB-01BB is new code for all types of Commercial and Private vehicles under Beltala RTO
+WB-03	Beltala (commercial goods carriages)	Kolkata district	
+WB-04	Beltala (commercial passenger vehicles)	Kolkata district	WB-01BB is new code for all types of Commercial and Private vehicles under Beltala RTO
+WB-05	Kasba (commercial vehicles)	Kolkata district	however, WB-05 is the new code for both Commercial and Private vehicles under One RTO One Code initiative
+WB-06	Kasba (private vehicles)	Kolkata district	series starts from (WB-06K); however, from WB-06 until WB-06J registered in Beltala RTO as private four-wheelers; series discontinued after WB-06AC
+WB-07	Salt Lake (commercial vehicles)	Kolkata district	series starts from (WB-07J); however, from WB-07 until WB-07H registered in Kolkata RTO as two-wheelers; series discontinued after WB-07K as it has been replaced by WB-07V
+WB-08	Salt Lake (private vehicles)	Kolkata district	Series replaced by WB-07V (after WB-08S) as WB-07V is the new code for both Commercial and Private vehicles; some government vehicles have been registered under WB-08T
+WB-09	Behala (commercial vehicles)	Kolkata district	
+WB-10	Behala (private vehicles)	Kolkata district	however, series replaced by WB-09B under One RTO One Code initiative of WB Transport Department
+WB-11	Howrah (commercial vehicles)	Howrah district	
+WB-12	Howrah (private vehicles)	Howrah district	however, series replaced by WB-11H under One RTO One Code initiative of WB Transport Department
+WB-13	Uluberia (commercial vehicles)	Howrah district	
+WB-14	Uluberia (private vehicles)	Howrah district	series starts from (WB14K); however from WB-14E until WB-14L Two-wheelers are registered under Howrah RTO
+WB-15	Chinsurah (commercial vehicles)	Hooghly district	
+WB-16	Chinsurah (private vehicles)	Hooghly district	discontinued and relaced by series starting with WB-15E under One RTO One Code initiative
+WB-17	Serampore (commercial vehicles)	Hooghly district	From WB17N it is Arambagh ARTO
+WB-18	Serampore (private vehicles)	Hooghly district	series starts from (WB18K); however from WB-18 until WB-18G registered in Chinsurah RTO as private vehicles.
+WB-18 series discontinued after WB-18AM and replaced by series starting with WB-17B under One RTO One Code initiative. Series from WB-18TA registered in Arambagh arto as private vehicles WB-18TA series discontinued after WB-18TF and replaced by WB-17N under One RTO One Code initiative
+
+WB-19	Alipore (commercial vehicles)	South 24 Parganas district	however, series starting with WB-19P is now used for both Private and Commercial vehicles under One RTO One Code initiative of WB Transport Department
+WB-20	Alipore (private vehicles)	South 24 Parganas district	Discontinued and replaced by series starting with WB-19P
+WB-21	Basirhat (commercial vehicles)	North 24 Parganas district	Common series for private and commercial vehicles starts from WB-21A under One RTO One Code initiative of WB Transport Department
+WB-22	Basirhat (private vehicles)	North 24 Parganas district	Common series for private and commercial vehicles starts from WB-21A under One RTO One Code initiative of WB Transport Department,
+however WB-22U registered in Alipore RTO as private vehicle
+
+WB-23	Barrackpore (commercial vehicles)	North 24 Parganas district	series starting from WB-23H applies for both Private and Commercial vehicles
+WB-24	Barrackpore (private vehicles)	North 24 Parganas district	Now discontinued and replaced by series starting from WB-23H
+WB-25	Barasat (commercial vehicles)	North 24 Parganas district	however, series replaced by WB-25N for both Commercial and Private vehicles under One RTO One Code initiative of WB Transport Department
+WB-26	Barasat (private vehicles)	North 24 Parganas district	however, series replaced by WB-25N for both Commercial and Private vehicles (after WB-26CC) under One RTO One Code initiative of WB Transport Department
+WB-27	Bangaon (commercial vehicles)	North 24 Parganas district	
+WB-28	Bangaon (private vehicles)	North 24 Parganas district	
+WB-29	Tamluk (commercial vehicles)	Purba Medinipur district	
+WB-30	Tamluk (private vehicles)	Purba Medinipur district	
+WB-31	Contai (commercial vehicles)	Purba Medinipur district	However series starts from WB-31N are registered under Haldia ARTO as commercial vehicles; WB-31 discontinued in Contai and replaced by WB-32 for both Private and Commercial vehicles
+WB-32	Contai (private vehicles)	Purba Medinipur district	However series starts from WB-32N are registered under Haldia ARTO as private vehicles; WB-32 now applies for both Private and Commercial vehicles under One RTO One Code initiative
+WB-33	Medinipur (commercial vehicles)	Paschim Medinipur district	
+WB-34	Medinipur (private vehicles)	Paschim Medinipur district	
+WB-35	Kharagpur (commercial vehicles)	Paschim Medinipur district	
+WB-36	Kharagpur (private vehicles)	Paschim Medinipur district	
+WB-37	Asansol (commercial vehicles)	Paschim Bardhaman district	
+WB-38	Asansol (private vehicles)	Paschim Bardhaman district	
+WB-39	Durgapur (commercial vehicles), also SBSTC buses are registered here.	Paschim Bardhaman district	
+WB-40	Durgapur (private vehicles)	Paschim Bardhaman district	
+WB-41	Bardhaman (commercial vehicles)	Purba Bardhaman district	
+WB-42	Bardhaman (private vehicles)	Purba Bardhaman district	
+WB-43	Kalna (commercial vehicles)	Purba Bardhaman district	
+WB-44	Kalna (private vehicles)	Purba Bardhaman district	However WB44-44D is registered at Asansol ARTO.
+WB-45	Rampurhat (commercial vehicles)	Birbhum district	
+WB-46	Rampurhat (private vehicles)	Birbhum district	
+WB-47	Bolpur (commercial vehicles)	Birbhum district	
+WB-48	Bolpur (private vehicles)	Birbhum district	
+WB-49	Jhargram (commercial vehicles)	Jhargram district	However series starts from WB-49N are registered under Ghatal arto as commercial vehicles
+WB-50	Jhargram (private vehicles)	Jhargram district	However series starts from WB-50N are registered under Ghatal as private vehicles
+WB-51	Krishnanagar (commercial vehicles)	Nadia district	
+WB-52	Krishnanagar (private vehicles)	Nadia district	However series starts from WB-52JA is registered at Tehatta ARTO
+WB-53	Birbhum (commercial vehicles)	Birbhum district	
+WB-54	Birbhum (private vehicles)	Birbhum district	
+WB-55	Purulia (commercial vehicles)	Purulia district	
+WB-56	Purulia (private vehicles)	Purulia district	
+WB-57	Murshidabad (commercial vehicles)	Murshidabad district	
+WB-58	Murshidabad (private vehicles)	Murshidabad district	
+WB-59	Raiganj (commercial vehicles)	Uttar Dinajpur district	
+WB-60	Raiganj (private vehicles)	Uttar Dinajpur district	
+WB-61	Balurghat (commercial vehicles)	Dakshin Dinajpur district	
+WB-62	Balurghat (private vehicles)	Dakshin Dinajpur district	
+WB-63	Cooch Behar (commercial vehicles), also NBSTC buses are registered here.	Cooch Behar district	
+WB-64	Cooch Behar (private vehicles)	Cooch Behar district	
+WB-65	Malda City (commercial vehicles)	Malda district	
+WB-66	Malda City (private vehicles)	Malda district	
+WB-67	Bankura (commercial vehicles)	Bankura district	
+WB-68	Bankura (private vehicles)	Bankura district	
+WB-69	Alipurduar (commercial vehicles)	Alipurduar district	
+WB-70	Alipurduar (private vehicles)	Alipurduar district	
+WB-71	Jalpaiguri (commercial vehicles)	Jalpaiguri district	
+WB-72	Jalpaiguri (private vehicles)	Jalpaiguri district	
+WB-73	Siliguri (commercial vehicles)	Darjeeling district	
+WB-74	Siliguri (private vehicles)	Darjeeling district	
+WB-75	Katwa (private and commercial vehicles)	Purba Bardhaman district	
+WB-76	Darjeeling (commercial vehicles)	Darjeeling district	
+WB-77	Darjeeling (private vehicles)	Darjeeling district	
+WB-78	Kalimpong (commercial vehicles)	Kalimpong district	
+WB-79	Kalimpong (private vehicles)	Kalimpong district	
+WB-80	Manbazar (private and commercial vehicles)	Purulia district	
+WB-81	Raghunathpur (commercial vehicles)	Purulia district	
+WB-82	Raghunathpur (private vehicles)	Purulia district	
+WB-83	Chanchal (commercial vehicles)	Malda district	
+WB-84	Chanchal (private vehicles)	Malda district	
+WB-85	Mathabhanga (commercial vehicles)	Cooch Behar district	
+WB-86	Mathabhanga (private vehicles)	Cooch Behar district	
+WB-87	Bishnupur (commercial vehicles)	Bankura district	
+WB-88	Bishnupur (private vehicles)	Bankura district	
+WB-89	Kalyani (commercial vehicles)	Nadia district	
+WB-90	Kalyani (private vehicles)	Nadia district	
+WB-91	Islampur (commercial vehicles)	Uttar Dinajpur district	
+WB-92	Islampur (private vehicles)	Uttar Dinajpur district	
+WB-93	Jangipur (commercial vehicles)	Murshidabad district	
+WB-94	Jangipur (private vehicles)	Murshidabad district	
+WB-95	Baruipur (commercial vehicles)	South 24 Parganas district	Common series for private and commercial vehicles starts from WB-95C under One RTO One Code initiative of WB Transport Department
+WB-96	Baruipur (private vehicles)	South 24 Parganas district	Common series for private and commercial vehicles starts from WB-95C under One RTO One Code initiative of WB Transport Department
+WB-97	Diamond Harbour (commercial vehicles)	South 24 Parganas district	Common series for private and commercial vehicles starts from WB-97B under One RTO One Code initiative of WB Transport Department
+WB-98	Diamond Harbour (private vehicles)	South 24 Parganas district	Common series for private and commercial vehicles starts from WB-97B under One RTO One Code initiative of WB Transport Department
+WB-99 Kandi  

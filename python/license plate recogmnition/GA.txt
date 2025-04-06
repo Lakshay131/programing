@@ -1,0 +1,56 @@
+Code	Office location	Jurisdiction area	Annotations
+GA-01	Panaji	North Goa district	not in use
+GA-02	Margao	South Goa district	not in use
+GA-03	Mapusa	Bardez taluka	
+GA-04	Bicholim	Bicholim taluka, Sattari taluka	
+GA-05	Ponda	Ponda taluka	
+GA-06	Vasco da Gama	Mormugao taluka	
+GA-07	Panaji	Tiswadi taluka	
+GA-08	Margao	Salcette taluka	
+GA-09	Quepem	Quepem taluka, Sanguem taluka	
+GA-10	Canacona	Canacona taluka	
+GA-11	Pernem	Pernem taluka	
+GA-12	Dharbandora	Dharbandora taluka	
+GJ—Gujarat
+
+Administrative map of Gujarat with RTO codes for vehicle registration
+Code	Office location	Jurisdiction
+GJ-01	Ahmedabad (West), Subhash Bridge	parts of Ahmedabad district
+GJ-02	Mehsana	Mehsana district
+GJ-03	Rajkot	Rajkot district
+GJ-04	Bhavnagar	Bhavnagar district
+GJ-05	Surat city	parts of Surat district
+GJ-06	Vadodara city	parts of Vadodara district
+GJ-07	Nadiad	Kheda district
+GJ-08	Palanpur	Banaskantha district
+GJ-09	Himmatnagar	Sabarkantha district
+GJ-10	Jamnagar	Jamnagar district
+GJ-11	Junagadh	Junagadh district
+GJ-12	Bhuj, West Kutch	parts of Kutch District
+GJ-13	Surendranagar	Surendranagar district
+GJ-14	Amreli	Amreli district
+GJ-15	Valsad	Valsad district
+GJ-16	Bharuch	Bharuch district
+GJ-17	Godhra	Panchmahal district
+GJ-18	Gandhinagar	Gandhinagar district[a]
+GJ-19	Bardoli	parts of Surat district
+GJ-20	Dahod	Dahod district
+GJ-21	Navsari	Navsari district
+GJ-22	Rajpipla	Narmada district
+GJ-23	Anand	Anand district
+GJ-24	Patan	Patan district
+GJ-25	Porbandar	Porbandar district
+GJ-26	Vyara	Tapi district
+GJ-27	Ahmedabad (East), Vastral	parts of Ahmedabad district
+GJ-28	Pal, Surat	parts of Surat district
+GJ-29	Vadodara rural	parts of Vadodara district
+GJ-30	Waghai	Dang district
+GJ-31	Modasa	Aravalli
+GJ-32	Veraval	Gir Somnath
+GJ-33	Botad	Botad district
+GJ-34	Chhota Udaipur	Chhota Udaipur district
+GJ-35	Lunawada	Mahisagar district
+GJ-36	Morbi	Morbi district
+GJ-37	Khambhaliya	Devbhoomi Dwarka district
+GJ-38	Bavla	Ahmedabad Rural
+GJ-39	Anjar, East Kutch	parts of Kutch District

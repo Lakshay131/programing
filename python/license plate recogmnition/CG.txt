@@ -1,0 +1,31 @@
+Code	Office location	Jurisdiction area	Annotations
+CG-01		entire Chhattisgarh	Governor of Chhattisgarh vehicles
+CG-02		entire Chhattisgarh	Chhattisgarh Government vehicles
+CG-03		entire Chhattisgarh	Chhattisgarh Police vehicles
+CG-04	Raipur	Raipur district	
+CG-05	Dhamtari	Dhamtari district	
+CG-06	Mahasamund	Mahasamund district	
+CG-07	Durg	Durg district	
+CG-08	Rajnandgaon	Rajnandgaon district	
+CG-09	Kawardha	Kabirdham district	
+CG-10	Bilaspur	Bilaspur district	
+CG-11	Janjgir	Janjgir–Champa district	
+CG-12	Korba	Korba district	
+CG-13	Raigarh	Raigarh district	
+CG-14	Jashpur Nagar	Jashpur district	
+CG-15	Ambikapur	Surguja district	
+CG-16	Baikunthpur	Koriya district	
+CG-17	Jagdalpur	Bastar district	
+CG-18	Dantewada	Dantewada district	
+CG-19	Kanker	Kanker district	
+CG-20	Bijapur	Bijapur district, Chhattisgarh	
+CG-21	Narayanpur	Narayanpur district	
+CG-22	Baloda Bazar	Baloda Bazar district	
+CG-23	Gariaband	Gariaband district	
+CG-24	Balod	Balod district	
+CG-25	Bemetara	Bemetara district	
+CG-26	Sukma	Sukma district	
+CG-27	Kondagaon	Kondagaon district	
+CG-28	Mungeli	Mungeli district	
+CG-29	Surajpur	Surajpur district	
+CG-30	Balrampur	Balrampur district	

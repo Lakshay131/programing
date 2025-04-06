@@ -1,0 +1,56 @@
+Code	Office location	Jurisdiction area	Annotations
+MP-01	Bhopal	entire Madhya Pradesh	vehicles of the Governor of Madhya Pradesh
+MP-02	Bhopal	entire Madhya Pradesh	MP Government vehicles
+MP-03	Bhopal	entire Madhya Pradesh	MP Police vehicles
+MP-04	Bhopal	Bhopal	
+MP-05	Hoshangabad	Hoshangabad	
+MP-06	Morena	Morena	
+MP-07	Gwalior	Gwalior	
+MP-08	Guna	Guna	
+MP-09	Indore	Indore	
+MP-10	Khargone	Khargone	
+MP-11	Dhar	Dhar	
+MP-12	Khandwa	Khandwa	
+MP-13	Ujjain	Ujjain	
+MP-14	Mandsaur	Mandsaur	
+MP-15	Sagar	Sagar	
+MP-16	Chhatarpur	Chhatarpur	
+MP-17	Rewa	Rewa	
+MP-18	Shahdol	Shahdol	
+MP-19	Satna	Satna	
+MP-20	Jabalpur	Jabalpur	
+MP-21	Katni	Katni	
+MP-22	Seoni	Seoni	
+MP-28	Chhindwara	Chhindwara	
+MP-30	Bhind	Bhind	
+MP-31	Sheopur	Sheopur	
+MP-32	Datia	Datia	
+MP-33	Shivpuri	Shivpuri	
+MP-34	Damoh	Damoh	
+MP-35	Panna	Panna	
+MP-36	Tikamgarh	Tikamgarh	
+MP-37	Sehore	Sehore	
+MP-38	Raisen	Raisen	
+MP-39	Rajgarh	Rajgarh	
+MP-40	Vidisha	Vidisha	
+MP-41	Dewas	Dewas	
+MP-42	Shajapur	Shajapur	
+MP-43	Ratlam	Ratlam	
+MP-44	Neemuch	Neemuch	
+MP-45	Jhabua	Jhabua	
+MP-46	Barwani	Barwani	
+MP-47	Harda	Harda	
+MP-48	Betul	Betul	
+MP-49	Narsinghpur	Narsinghpur	
+MP-50	Balaghat	Balaghat	
+MP-51	Mandla	Mandla	
+MP-52	Dindori	Dindori	
+MP-53	Sidhi	Sidhi	
+MP-54	Umaria	Umaria	
+MP-65	Anuppur	Anuppur	
+MP-66	Singrauli	Waidhan	
+MP-67	Ashoknagar	Ashoknagar	
+MP-68	Burhanpur	Burhanpur	
+MP-69	Alirajpur	Alirajpur	
+MP-70	Agar	Agar Malwa	
+MP-71	Niwari	Niwari	

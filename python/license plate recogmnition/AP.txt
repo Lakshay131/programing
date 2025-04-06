@@ -1,0 +1,71 @@
+AP 02	Ananthapuramu District	
+AP 03	Chittoor District	
+AP 04	YSR Kadapa District	
+AP 05	East Godavari District	RTO was located in Kakinada, former district headquarters of undivided East Godavari District
+AP 07	Guntur District	
+AP 16	Krishna District	RTO was located in Vijayawada, former district headquarters of undivided Krishna District
+AP 18 P	Andhra Pradesh Police	
+AP 21	Kurnool District	
+AP 26	Nellore District	
+AP 27	Prakasam District	
+AP 30	Srikakulam District	
+AP 31	Vishakhapatnam District	AP 32, AP 33, and AP 34 were also reserved for Vishakhapatnam, with only few vehicles getting these registrations.
+AP 35	Vizianagaram District	
+AP 37	West Godavari District	RTO was located in Eluru, former district headquarters of undivided West Godavari District
+AR—Arunachal Pradesh
+Code	Office location	Jurisdiction area	Annotations
+AR-01
+AR-02	Itanagar	Papum Pare district	
+AR-03	Tawang	Tawang district	
+AR-04	Bomdila	West Kameng district	
+AR-05	Seppa	East Kameng district	
+AR-06	Ziro	Lower Subansiri district	
+AR-07	Daporijo	Upper Subansiri district	
+AR-08	Along	West Siang district	
+AR-09	Pasighat	East Siang district	
+AR-10	Anini	Dibang Valley district	
+AR-11	Tezu	Lohit district	
+AR-12	Changlang	Changlang district	
+AR-13	Khonsa	Tirap district	
+AR-14	Yingkiong	Upper Siang district	
+AR-15	Koloriang	Kurung Kumey district	
+AR-16	Roing	Dibang Valley district	
+AR-17	Hawai	Anjaw district	
+AR-19	Palin	Kra Daadi district	
+AR-20	Namsai	Namsai district	On November 17, 2014, Namsai district was carved out from the erstwhile Lohit district.
+AR-22	Siji	Lower Siang district	On November 24, 2018, Lower Siang district was carved out from the erstwhile West Siang district.
+AS—Assam
+Code	Office location	Jurisdiction area	Annotations
+AS-01	Guwahati	Kamrup district	
+AS-02	Nagaon	Nagaon district	
+AS-03	Jorhat	Jorhat district	
+AS-04	Sivasagar	Sivasagar district	
+AS-05	Golaghat	Golaghat district	
+AS-06	Dibrugarh	Dibrugarh district	
+AS-07	Lakhimpur	Lakhimpur district	
+AS-08	Haflong	Dima Hasao district	
+AS-09	Karbi Anglong	Karbi Anglong district	
+AS-10	Karimganj	Karimganj district	
+AS-11	Silchar	Cachar district	
+AS-12	Tezpur	Sonitpur district	
+AS-13	Darrang	Darrang district	
+AS-14	Nalbari	Nalbari district	
+AS-15	Barpeta	Barpeta district	
+AS-16	Kokrajhar	Kokrajhar district	
+AS-17	Dhubri	Dhubri district	
+AS-18	Goalpara	Goalpara district	
+AS-19	Bongaigaon	Bongaigaon district	
+AS-20		entire Assam State	vehicles of Assam State Transport Corporation
+AS-21	Morigaon	Morigaon District	
+AS-22	Dhemaji	Dhemaji district	
+AS-23	Tinsukia	Tinsukia district	
+AS-24	Hailakandi	Hailakandi district	
+AS-25	Kamrup	Kamrup district	
+AS-26	Kajalgaon	Chirang district	
+AS-27	Udalguri	Udalguri district	
+AS-29	Majuli	Majuli district	
+AS-30	Assam Police	Assam Police	
+AS-31	Hojai	Hojai district	
+AS-32	Biswanath Chariali	Biswanath district	
+AS-33	Charaideo	Charaideo district	
+AS-34	Hatsingimari	South Salmara Mankachar	

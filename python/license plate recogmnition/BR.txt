@@ -1,0 +1,39 @@
+Code	Office location	Jurisdiction area	Annotations
+BR-01	Patna	Patna district	
+BR-02	Gaya	Gaya district	
+BR-03	Arrah	Bhojpur district	
+BR-04	Chhapra	Saran district	
+BR-05	Motihari	East Champaran	
+BR-06	Muzaffarpur	Muzaffarpur	
+BR-07	Darbhanga	Darbhanga district	
+BR-08	Munger	Munger district	
+BR-09	Begusarai	Begusarai district	
+BR-10	Bhagalpur	Bhagalpur district	
+BR-11	Purnia	Purnia district	
+BR-19	Saharsa	Saharsa district	
+BR-21	Bihar Sharif	Nalanda district	
+BR-22	Bettiah	West Champaran district	
+BR-24	Dehri	Rohtas district	
+BR-25	Jehanabad	Jehanabad district	
+BR-26	Aurangabad	Aurangabad district	
+BR-27	Nawada	Nawada district	
+BR-28	Gopalganj	Gopalganj district	
+BR-29	Siwan	Siwan district	
+BR-30	Sitamarhi	Sitamarhi district	
+BR-31	Hajipur	Vaishali district	
+BR-32	Madhubani	Madhubani district	
+BR-33	Samastipur	Samastipur district	
+BR-34	Khagaria	Khagaria district	
+BR-37	Kishanganj	Kishanganj district	
+BR-38	Araria	Araria district	
+BR-39	Katihar	Katihar district	
+BR-43	Madhepura	Madhepura district	
+BR-44	Buxar	Buxar district	
+BR-45	Bhabua	Kaimur district	
+BR-46	Jamui	Jamui district	
+BR-50	Supaul	Supaul district	
+BR-51	Banka	Banka district	
+BR-52	Sheikhpura	Sheikhpura district	
+BR-53	Lakhisarai	Lakhisarai district	
+BR-55	Sheohar	Sheohar district	
+BR-56	Arwal	Arwal district	

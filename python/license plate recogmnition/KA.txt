@@ -1,0 +1,89 @@
+Code	Office location	Jurisdiction area	Annotations
+KL-01	Thiruvananthapuram	Thiruvananthapuram Corporation, Thiruvananthapuram Taluk Southern Areas	Most Kerala Government vehicles, including Police and Motor Vehicle Departments, are registered here.
+KL-02	Kollam	Kollam corporation, Tirumullavaram, Shaktikulangara, Anandavalleeswaram, Chinnakada, Kadapakkada, Meevaram, Kottiyam, Kundara, Kannanalloor, Adichanalloor, Paravur	
+KL-03	Pathanamthitta	Pathanamthitta City, Kaipattoor, Omallur, Malayalapuzha, Mylapra, Naranganam, Sabarigiri, Aranmula, Kozhencherri	
+KL-04	Alappuzha	Alappuzha city, Ambalappuzha, Aryad, Komalapuram, Kommadi, Polathai, Thumboli, Punnapra, Kalavur, Ananthanarayanapuram	
+KL-05	Kottayam	Kottayam city, Kodimatha, Manarcaud, Pampady, Tirunnakara, Nattakam, Tiruvarppu, Tiruvathikkal, Sankranthi, Vijayapuram, Pallickathodu	
+KL-06	Idukki	Idukki, Painav	
+KL-07	Kochi, Ernakulam District.	Kochi Corporation Area, Kalamaserry, Kakkanad, Kochi SEZ, Thrikkakara, Info Park, Smart City, Thiruvankulam, Brahmapuram	Covers parts of Greater Kochi, including those outside Kochi Corporation limits	
+KL-08	Thrissur	Thrissur Corporation, Ollur, Kuriachira, Ammaddam, Ramavarmapuram, Parvattani, Kuttanellur	
+KL-09	Palakkad	Palakkad city, Kallepully, Kannadi, Mundur, Kanjikode, Pathirippala, Kongad	
+KL-10	Malappuram (part of Ernad, Perintalmanna & Tirur Taluks)	Malappuram, Manjeri, Anakkayam, Pookkoottor, Kavanur, Pulpetta, Edavanna, Pandikkad, Thrikkalangode, Koottilangadi, Kodur, Ponmala	
+KL-11	Kozhikode	Kozhikode North, Kozhikode South, Elathur, Peruvazhal, Mavoor	
+KL-12	Kalpetta, Wayanad District	Kalpetta Township, Chitragiri, Vythiri	
+KL-13	Kannur	Kannur corporation, Valapattanam, Papinnisheri, Kannapuram, Dharmadam, Parashinikadavu	
+KL-14	Kasaragod	Kasaragod, Chandragiri, Manjeshwaram, Uppala, Mogral Puttur, Kumbla	
+KL-15	Kerala State Road Transport Corporation, Thiruvananthapuram	Used exclusively for KSRTC and KURTC buses	
+KL-16	Attingal, Thiruvananthapuram District	Chirayinkeezhu Taluk	
+KL-17	Muvattupuzha, Ernakulam District	Muvattupuzha, Vazhakulam, Koothattukulam, Piravom	
+KL-18	Vadakara, Kozhikode District	Vadakara, Nadapuram	
+KL-19	Parassala, Thiruvananthapuram District	Padmanabhapuram, Tiruvattar, Tiruparappu, Kulasekaram, Amaravilla, Dhanuvachapuram, Marthandam Poovaar	
+KL-20	Neyyattinkara, Thiruvananthapuram District	Neyyathinkara, Balaramapuram, Vedivachankovil, Pravachambalam, Pallichal	
+KL-21	Nedumangad, Thiruvananthapuram District	Nedumangad, Arruvikara, Bhartheeswaram, Palode, Vithura, Ponmudi, Karakulam, Perrorkada	
+KL-22	Kazhakkoottam, Thiruvananthapuram	Thiruvananthapuram Corporation, Thiruvananthapuram Taluk Northern Areas		
+KL-23	Karunagappalli, Kollam District	Karunagapalli, Oachira, Mynagapalli, Chavara, Amrithapuri, Thazhava, Paavumba	
+KL-24	Kottarakkara, Kollam District	Kottarakara, Malanada, Enathu, Pavitreeswaram, Chengamanad. Mavadi	
+KL-25	Punalur, Kollam District	Punalur, Thenmala, Aryankavu, Bhagavathipuram, Anchal, Achankovil	
+KL-26	Adoor, Pathanamthitta District	Adoor Taluk	
+KL-27	Tiruvalla, Pathanamthitta District	Tiruvalla, Tirumoolapuram, Othera, Manjadi, Parumala, Valanjavattom	
+KL-28	Mallappally, Pathanamthitta District	Mallappally, Kaviyoor	
+KL-29	Kayamkulam, Alappuzha District	Karthikapalli, Kayankulam Town, Krishnapuram, Harippad, Shaktipuram, Karuvatta, Manarssala	
+KL-30	Chengannur, Alappuzha District	Chengannur, Cheriyanad, Budhannur, Pandanad, Venmani-kalyathra	
+KL-31	Mavelikkara, Alappuzha District	Mavelikara, Chettikulangara, Kattanam, Mannar, Charummod, Adhikattukulangara, Aakanattukara, Vallikonam, Vathukonam, Vettiyar	
+KL-32	Cherthala, Alappuzha District	Cherthala, Tiruvizha, Pattanakkad, Vayalar, Turavur, Aroor, Eramalloor, Varanad, Mannancherry, Panavally, Varanam	
+KL-33	Changanassery, Kottayam District	Changanassery, Nalukodi, Kurichi, Chingavanam, Karukachal, Perunna,Vazhoor,Kangazha,Vellavoor	
+KL-34	Kanjirapalli, Kottayam District	Kanjirapalli, Erumelli, Mundakayam, Ponkunnam, Chirrakadavu, Anchillappa, Anakkal,Koottickal	
+KL-35	Pala, Kottayam District	Meenachil, Erattupetta, Poonjar, Bharananganam, Kadanad, Kidangoor, Mutholi, Poovarani, Melukavu, Thalanad, Teekoi, Moonnilavu, Thalappulam, Thidanad	
+KL-36	Vaikom, Kottayam District	Vaikom, Talayolaparambu . Udayanapuram, Vadayar, Kaduthuruthi, Vechoor	
+KL-37	Vandiperiyar, Idukki District	Peerumed, Elappara, Kuttikanam, Vandiperiyar, Kumili, Kattappana, Kambammedu, Mangaladevi	
+KL-38	Thodupuzha, Idukki District	Thodupuzha, Kumaramangalam .Vengannur, Muttum, Uravvappara, Malankara, Moolamattam	
+KL-39	Thripunithura, Ernakulam District	Thripunithura, Udayamperoor, Cheppanam-Chattamma, Kanjiramattom, Mulanthuruthy, Chottanikkara	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-40	Perumbavoor, Ernakulam District	Kunnathunad, Nellad, Valayanchirangara, Chellamattom, Thottuva, Rayamangalam, Pattimattam	
+KL-41	Aluva, Ernakulam District	Aluva	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-42	North Paravur, Ernakulam District	North Paravur, Munambam, Cherrai, Vypin, Puthuvype	Covers parts of Greater Kochi outside Kochi Corporation limits	
+KL-43	Fort Kochi, Ernakulam District	Kochi Corporation Area, Pallurthi, Kumbalangi	Covers parts of Greater Kochi, including those outside Kochi Corporation limits	
+KL-44	Kothamangalam, Ernakulam District	Kothamangalam Taluk, Odakkali, Neriyamangalam, Bhootathankettu	
+KL-45	Irinjalakuda, Thrissur District	Mukundapuram Taluk, Ashtamichira, Annammanada, Mala, Cherppu, Kandassamkadavu	
+KL-46	Guruvayur, Thrissur District	Guruvayur Taluk, Chhavakad, Chettuva, Pavaratti	
+KL-47	Kodungallur, Thrissur District	Kodungallur, Methala, Sringapuram	
+KL-48	Wadakkancherry, Thrissur District	Wadakkancherry, Thiruvilwamala, Pazhayannur, Chelakkara, Anthimahal, Uthralikavu, Mulangunathukavu, Deshamangalam, Chittada, Malakha, Akamalavaram	
+KL-49	Alathur, Palakkad District	Alathur, Vadakkenchery, Kavassery, Kuzhalmannam, Thenkurissi, Kottayi, Mathur, Peringottukurissi	
+KL-50	Mannarkkad, Palakkad District	Mannarkkad, Attapadi, Tachampara, Karimba, Kanjirapuzha	
+KL-51	Ottapalam, Palakkad District	Ottapalam, Shoranur, Palapuram, Chinnakathur, Vengasserri, Cherpulasherri, Vandannamkurishi, Sreekrishnapuram	
+KL-52	Pattambi, Palakkad District	Pattambi, Thrithala, Koottanad, Vallapuzha, Koppam	
+KL-53	Perinthalmanna, Malappuram District	Perinthalmanna, Edappatta, Kizhattur, Aliparamba, Elamkulam, Thahekode, Vettathur, Pulamnathole, Melatur, Angadippuram, Kuruva, Mankada, Puzhakatiri, Moorkkanad, Makkaraparamba	
+KL-54	Ponnani, Malappuram District	Ponnani, Edappal, Alankode, Marancheri, Nannammukku, Perumpadappu, Veliynakode, Thavanur, Kaladi, Vattamkulam	
+KL-55	Tirur, Malappuram District	Tirur, Tirunnavaya, Tanur, Valancheri, Kalapancheri, Valavannur, Vettam, Thalakkad, Athavanad, Ponmundam, Cheriyamundam, Ozhur, Nirmaruthur, Thanalur, Edayur, Irimbiliyma, Marakkara, Kuttippuram, Purathur, Mangalam, Thrippangode	
+KL-56	Koyilandy, Kozhikode District	Koyilandy, Payyoli, Chemancheri	
+KL-57	Koduvally, Kozhikode District	Mukkam, Kunnamangalam, Koduvally, Thamarasseri, Elettiyil, Vattoli, Mavoor, Thiruvambadi, Kattangal	
+KL-58	Thalassery, Kannur District	Thalassery, Anjarakandy, Koothuparamba, Gopalpet, Chokli, Pinarayi, Pathirayad, Sivapuram	
+KL-59	Taliparamba, Kannur District	Taliparamba, Sreekandapuram, Alakkode, Karthikapuram, Payyavoor, Irikkur, Chemperi, Mayyil	
+KL-60	Kanhangad, Kasargod District	Hosdurg, Balla, Nileshwaram, Trikkarippur, Cheruvathur	
+KL-61	Sasthamkotta, Kollam District	Sasthamkotta, Bharanikkavu, Kallada, Anayadi	
+KL-62	Ranni, Pathanamthitta District	Ranni Perinad, Kuravamoozhi, Mandamaruthi	
+KL-63	Angamaly, Ernakulam District	Angamaly, Karukutti, Tirumoozhikulam, Malayathur, Kodannad, Yordhanapuram	
+KL-64	Chalakkudy, Thrissur District	Chalakkudy, Athirapalli, Malakkapara, Poringu, Potta, Kodakara	
+KL-65	Tirurangadi, Malappuram District	Tirurangadi, Thenhipalam, Parappanangadi, Kottakkal, Edarikode, Parappur, Othukkungal, Oorakam, Vengara, Kannamangalam, Peruvalloore, AR Nagar, Perumanna Klari, Thennala, Nannambra, Moonniyur, Vallikkunnu	Covers Entire Tirurangadi Taluk & parts of Tirur Taluk	
+KL-66	Kuttanad, Alappuzha District	Champakulam . Kainakari, Ramankari, Champakulam, Nedumudi, Thakazhi, Edatuva, Thalavadi, Mancompu	
+KL-67	Uzhavoor, Kottayam District	Uzhavur, Ramapuram, Njeezhoor, Kuravilangad, Monipalli, Aandoor, Kuruppanthara	
+KL-68	Devikulam, Idukki District	Devikulam, Munnar, Marayur, Chinnar, Boddimettu, Mattupetti, Vatavada, Kanthaloor, Chinnakanal	
+KL-69	Udumbanchola, Wayanad District	Udumbancholla, Nedumkandam, Rajakumari, Rajakkad, Bisson valley, Chithirapuram, Vellathooval	
+KL-70	Chittur, Palakkad District	Chittur, Thathamangalam, Meenakshipuram, Gopalapuram, Govindapuram, Kollengode, Koduvayur, Pudunagaram, Nenmara, Neliyampathy	
+KL-71	Nilambur, Malappuram District	Nilambur, Wandoor, Chaliyar, Vazhikkadavu, Edakakra, Pothukkallu, Chungathara, Mothedam, Amarambalam, Karulai, Thiruvali, Mampad, Porur, Kalikavu, Chokkad, Karuvarakundu, Thuvvoor	
+KL-72	Mananthavady, Wayanad District	Manathawadi, Ambalavayal, Kottiyur, Tirunelli, Tholpetti, Bramhagiri	
+KL-73	Sulthan Bathery, Wayanad District	Sulthan Bathery, Muthanga, Meenangadi	
+KL-74	Kattakada, Thiruvananthapuram District	Kattakada, Malayankeezh, Vilappil, Otasekharamangalam, Amboori, Vellarda, Vilvoorkal	
+KL-75	Thriprayar, Thrissur District	Thriprayyar, Vadannapalli, Valappad, Nattikka	
+KL-76	Nanmanda, Kozhikode District	Balusseri, Atholli, Chelannur, Kakkodi, Kuruvattur	
+KL-77	Perambra, Kozhikode District	Perambra, Kuttiyadi	
+KL-78	Iritty, Kannur District	Iritty, Aralam, Mattannur, Peravoor, Kottiyoor, Kelakam	
+KL-79	Vellarikundu, Kasargod District	Vellarikundu, Chittarikkal, Rajapuram, Ranipuram, Bandadukka	
+KL-80	Pathanapuram, Kollam District	Pathanapuram, Manchaloor, Pattazhi, Pakalkuri, Avaneeswaram	
+KL-81	Varkala, Thiruvananthapuram District	Varkala, Sivagiri, Anchuthengu, Edavai	
+KL-82	Chadayamangalam, Kollam District	Aayur, Jetayupara, Kadakkal, Nilammel, Vamanapuram,	
+KL-83	Konni, Pathanamthitta District	Konni, Koodal-Rajagiri, Gavi	
+KL-84	Kondotty, Malappuram District	Karippur, Kondotty, Pallikkal, Chelembra, Kuzhimanna, Cherukavu, Muthuvallore, Vazhayur, Vazhakkad, Pulikkal, Chekkode, Morayur, Keezhuparmab, Areekode, Orgnatteeri	Covers Entire Kondotty Taluk Full & parts of Ernad Taluk
+KL-85	Ramanattukara-Feroke, Kozhikode District	Feroke, Ramanattukara, Kadalundi Beypore, Nallalam, Olavanna, Perumanna	
+KL-86	Payyannur, Kannur District	Payyannur, Ramanthali, Cherupuzha, Peringome, Kankole, Kadannappally-Panapuzha, Eramam-Kuttoor, Karivellur	
+KL-90	Thiruvananthapuram	Used exclusively for Government Vehicle's (KL-90A: Kerala Government, KL-90B: Central Government, KL-90C: Local body and KL-90D: Public sector)	
+KL-99	Thiruvananthapuram	Used exclusively for State Transport Authority vehicles	Limited in circulation

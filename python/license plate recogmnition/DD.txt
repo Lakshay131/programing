@@ -1,0 +1,4 @@
+Code	Office location	Jurisdiction area	Annotations
+DD-01	Silvassa	Dadra and Nagar Haveli	Previously DN-09, before the merger of UT of Daman & Diu and UT of Dadra & Nagar Haveli
+DD-02	Diu		
+DD-03	Daman	

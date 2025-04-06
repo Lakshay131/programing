@@ -1,0 +1,8 @@
+Code	Office location	Jurisdiction area	Annotations
+MN-01	Imphal West	Imphal West	
+MN-02	Churachandpur	Churachandpur	
+MN-03	Kangpokpi	Kangpokpi	
+MN-04	Thoubal	Thoubal	
+MN-05	Bishnupur	Bishnupur	
+MN-06	Imphal East	Imphal East	
+MN-07	Ukhrul	Ukhrul	

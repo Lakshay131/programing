@@ -1,0 +1,10 @@
+Code	Office location	Jurisdiction area	Annotations
+ML-01	Meghalaya Government vehicles	N/A	
+ML-02	Meghalaya Police vehicles	N/A	
+ML-04	Jowai	Jaintia Hills	
+ML-05	Shillong	Shillong	
+ML-06	Nongstoin	West Khasi Hills	
+ML-07	William Nagar	East Garo Hills	
+ML-08	Tura	West Garo Hills	
+ML-09	Baghmara	South Garo Hills	
+ML-10	Nongpoh	Ri-Bhoi	

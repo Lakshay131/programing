@@ -1,0 +1,47 @@
+Code	Office location	Jurisdiction area	Annotations
+JH-01	Ranchi	Ranchi district	
+JH-02	Hazaribagh	Hazaribagh district	
+JH-03	Daltonganj	Palamu district	
+JH-04	Dumka	Dumka district	
+JH-05	Jamshedpur	East Singhbhum district	
+JH-06	Chaibasa	West Singhbhum district	
+JH-07	Gumla	Gumla district	
+JH-08	Lohardaga	Lohardaga district	
+JH-09	Bokaro	Bokaro district	
+JH-10	Dhanbad	Dhanbad district	
+JH-11	Giridih	Giridih district	
+JH-12	Koderma	Koderma district	
+JH-13	Chatra	Chatra district	
+JH-14	Garhwa	Garhwa district	
+JH-15	Deoghar	Deoghar district	
+JH-16	Pakur	Pakur district	
+JH-17	Godda	Godda district	
+JH-18	Sahibganj	Sahebganj district	
+JH-19	Latehar	Latehar district	
+JH-20	Simdega	Simdega district	
+JH-21	Jamtara	Jamtara district	
+JH-22	Seraikela Kharsawan	Seraikela Kharsawan district	
+JH-23	Khunti	Khunti district	
+JH-24	Ramgarh	Ramgarh district	
+JK—Jammu and Kashmir
+Code	Office location	Jurisdiction area	Annotations
+JK-01	Srinagar	Srinagar District	
+JK-02	Jammu	Jammu District	
+JK-03	Anantnag	Anantnag District	
+JK-04	Budgam	Budgam District	
+JK-05	Baramulla	Baramulla District	
+JK-06	Doda	Doda District	
+JK-08	Lakhanpur, Kathua	Kathua District	
+JK-09	Kupwara	Kupwara district	
+JK-11	Rajouri	Rajouri District	
+JK-12	Poonch	Poonch district, India	
+JK-13	Pulwama	Pulwama District	
+JK-14	Udhampur	Udhampur District	
+JK-15	Bandipora	Bandipora District	
+JK-16	Ganderbal	Ganderbal District	
+JK-17	Kishtwar	Kishtwar District	
+JK-18	Kulgam	Kulgam District	
+JK-19	Ramban	Ramban District	
+JK-20	Reasi	Reasi District	
+JK-21	Samba	Samba District	
+JK-22	Shopian	Shopian Districts

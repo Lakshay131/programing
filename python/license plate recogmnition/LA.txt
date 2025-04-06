@@ -1,0 +1,3 @@
+Code	Office location	Jurisdiction	Annotations
+LA-01	Kargil	Kargil District	Previously JK-07
+LA-02	Leh	Leh District	Previously JK-10
